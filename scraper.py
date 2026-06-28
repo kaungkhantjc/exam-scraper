@@ -19,9 +19,10 @@ scraped_data = []
 
 class ExamSpider(scrapy.Spider):
     name = 'exam_spider'
-    start_urls = ['https://www.myanmarexam.org/']
+    start_urls = ['https://www.myanmarexam.org/index.html']
     
     def parse(self, response):
+        self.logger.info(f"ပင်မစာမျက်နှာသို့ ရောက်ရှိပါပြီ: {response.url}")
         # ပင်မစာမျက်နှာမှ တိုင်း/ပြည်နယ် လင့်ခ်များကို ရှာဖွေခြင်း
         links = response.css('table.table tbody tr td a')
         for link in links:
@@ -33,6 +34,7 @@ class ExamSpider(scrapy.Spider):
                 yield response.follow(url, self.parse_region, cb_kwargs={'region_name': region_name})
 
     def parse_region(self, response, region_name):
+        self.logger.info(f"ဒေတာများကို ရယူနေပါသည် - {region_name}: {response.url}")
         region_data = {
             "region": region_name.strip(),
             "districts": []
@@ -79,6 +81,7 @@ class ExamSpider(scrapy.Spider):
                     
                     # PDF ဖိုင်မရှိသေးပါက Download ဆွဲရန်
                     if not os.path.exists(save_path):
+                        self.logger.info(f"PDF ဒေါင်းလုပ်ဆွဲရန် တောင်းဆိုနေပါသည် - {file_name}")
                         yield scrapy.Request(file_url, callback=self.save_pdf, cb_kwargs={'save_path': save_path})
         
         # Data များရှိမှသာ သိမ်းဆည်းရန်
@@ -86,6 +89,7 @@ class ExamSpider(scrapy.Spider):
             scraped_data.append(region_data)
 
     def save_pdf(self, response, save_path):
+        self.logger.info(f"PDF ကို အောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ - {save_path}")
         # PDF ဖိုင်ကို သိမ်းဆည်းခြင်း
         with open(save_path, 'wb') as f:
             f.write(response.body)
@@ -95,7 +99,9 @@ process = CrawlerProcess(settings={
     'LOG_LEVEL': 'INFO',
     'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
     'CONCURRENT_REQUESTS': 5, # Server ကို ဝန်မပိစေရန် Request အရေအတွက်ကို ကန့်သတ်ထားသည်
-    'DOWNLOAD_DELAY': 0.5
+    'DOWNLOAD_DELAY': 0.5,
+    'DOWNLOAD_TIMEOUT': 20, # ၂၀ စက္ကန့်ထက်ကျော်လွန်ပါက Timeout ဖြစ်စေရန်
+    'ROBOTSTXT_OBEY': False # Robots.txt စစ်ဆေးခြင်းကို ကျော်ဖြတ်ရန်
 })
 
 process.crawl(ExamSpider)

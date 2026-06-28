@@ -1,0 +1,5273 @@
+[
+  {
+    "region": "ရှမ်းပြည်နယ်",
+    "districts": [
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၁)တောင်ကြီး",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-001.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၂)တောင်ကြီး",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-002.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၃)တောင်ကြီး",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-003.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၄)တောင်ကြီး",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-004.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၅)တောင်ကြီး",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-005.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၇)တောင်ကြီး",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-006.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၁)အေးသာယာ(စက်၊စိုက်၊မွေး)(တောင်ကြီး)",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-007.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၂)အေးသာယာ(တောင်ကြီး)",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-008.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက၊ရွှေညောင်(တောင်ကြီး)",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-009.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက၊တောင်နီ(တောင်ကြီး)",
+        "alphabet": "ရတက",
+        "file": "shn/SHN-010.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၁)ရပ်စောက်",
+        "alphabet": "ရရစ",
+        "file": "shn/SHN-011.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက(၂)ရပ်စောက်",
+        "alphabet": "ရရစ",
+        "file": "shn/SHN-012.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက၊ဗထူး(ရပ်စောက်)",
+        "alphabet": "ရရစ",
+        "file": "shn/SHN-013.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက၊ပင်ဖြစ်(ရပ်စောက်)",
+        "alphabet": "ရရစ",
+        "file": "shn/SHN-014.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက၊ကောင်းဘို့(ရပ်စောက်)",
+        "alphabet": "ရရစ",
+        "file": "shn/SHN-015.pdf"
+      },
+      {
+        "name": "တောင်ကြီး",
+        "department": "အထက၊ရတနာပုံ(ရပ်စောက်)",
+        "alphabet": "ရရစ",
+        "file": "shn/SHN-016.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၁)ကလော",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-017.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၃)အောင်ပန်း(ကလော)",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-018.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၅)အောင်ပန်း(ကလော)",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-019.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၈)အောင်ပန်း(ကလော)",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-020.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၁၀)အောင်ပန်း(ကလော)",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-021.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၄)ဟဲဟိုး(ကလော)",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-022.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၆)ဘော်ဆိုင်း(ကလော)",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-023.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၇)အင်းခေါင်း(စက်၊စိုက်၊မွေး)(ကလော)",
+        "alphabet": "ရကလ",
+        "file": "shn/SHN-024.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၁)ညောင်ရွှေ",
+        "alphabet": "ရညရ",
+        "file": "shn/SHN-025.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက(၂)ညောင်ရွှေ",
+        "alphabet": "ရညရ",
+        "file": "shn/SHN-026.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက၊မိုင်းသောက်(ညောင်ရွှေ)",
+        "alphabet": "ရညရ",
+        "file": "shn/SHN-027.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက၊အင်းပေါခုံ(ညောင်ရွှေ)",
+        "alphabet": "ရညရ",
+        "file": "shn/SHN-028.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက၊မင်းချောင်း(ညောင်ရွှေ)",
+        "alphabet": "ရညရ",
+        "file": "shn/SHN-029.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက၊ဟဲယာရွာမ(ညောင်ရွှေ)",
+        "alphabet": "ရညရ",
+        "file": "shn/SHN-030.pdf"
+      },
+      {
+        "name": "ကလော",
+        "department": "အထက၊အင်းယား(ညောင်ရွှေ)",
+        "alphabet": "ရညရ",
+        "file": "shn/SHN-031.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက(၁)ဟိုပုံး",
+        "alphabet": "ရဟပ",
+        "file": "shn/SHN-032.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ဆီဆိုင်",
+        "alphabet": "ရဆဆ",
+        "file": "shn/SHN-033.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ဘန်းယဉ်(ဆီဆိုင်)",
+        "alphabet": "ရဆဆ",
+        "file": "shn/SHN-034.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ဆိုက်ခေါင်(ဆီဆိုင်)",
+        "alphabet": "ရဆဆ",
+        "file": "shn/SHN-035.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက(၁)ပင်လောင်း",
+        "alphabet": "ရပလ",
+        "file": "shn/SHN-036.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက(၂)ပင်လောင်း",
+        "alphabet": "ရပလ",
+        "file": "shn/SHN-037.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊နောင်တရား(ပင်လောင်း)",
+        "alphabet": "ရပလ",
+        "file": "shn/SHN-038.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊တီကျစ်(ပင်လောင်း)",
+        "alphabet": "ရပလ",
+        "file": "shn/SHN-039.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ပင်ခွန်(ပင်လောင်း)",
+        "alphabet": "ရပလ",
+        "file": "shn/SHN-040.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊တင်းထက်(ပင်လောင်း)",
+        "alphabet": "ရပလ",
+        "file": "shn/SHN-041.pdf"
+      },
+      {
+        "name": "ပအို့ဝ်ကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊တလိုင်းမရွာသစ်(ပင်လောင်း)",
+        "alphabet": "ရပလ",
+        "file": "shn/SHN-042.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ပင်းတယ",
+        "alphabet": "ရပယ",
+        "file": "shn/SHN-043.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ကြိုသက်(ပင်းတယ)",
+        "alphabet": "ရပယ",
+        "file": "shn/SHN-044.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ကျုံး(ပင်းတယ)",
+        "alphabet": "ရပယ",
+        "file": "shn/SHN-045.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊တောင်ပေါ်ကြီး(ပင်းတယ)",
+        "alphabet": "ရပယ",
+        "file": "shn/SHN-046.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ရွာငံ",
+        "alphabet": "ရရင",
+        "file": "shn/SHN-047.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ရေဦး(ရွာငံ)",
+        "alphabet": "ရရင",
+        "file": "shn/SHN-048.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊အင်းကြီး(မ)(ရွာငံ)",
+        "alphabet": "ရရင",
+        "file": "shn/SHN-049.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊မြိုင်(ရွာငံ)",
+        "alphabet": "ရရင",
+        "file": "shn/SHN-050.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊မြင်းကျဒိုး(ရွာငံ)",
+        "alphabet": "ရရင",
+        "file": "shn/SHN-051.pdf"
+      },
+      {
+        "name": "ဓနုကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊မြို့ကြီး(ရွာငံ)",
+        "alphabet": "ရရင",
+        "file": "shn/SHN-052.pdf"
+      },
+      {
+        "name": "လွိုင်လင်",
+        "department": "အထက(၁)လွိုင်လင်",
+        "alphabet": "ရလလ",
+        "file": "shn/SHN-053.pdf"
+      },
+      {
+        "name": "လွိုင်လင်",
+        "department": "အထက(၁)ပင်လုံ(လွိုင်လင်)",
+        "alphabet": "ရလလ",
+        "file": "shn/SHN-054.pdf"
+      },
+      {
+        "name": "လွိုင်လင်",
+        "department": "အထက၊လဲချား",
+        "alphabet": "ရလခ",
+        "file": "shn/SHN-055.pdf"
+      },
+      {
+        "name": "လွိုင်လင်",
+        "department": "အထက၊မိုင်းကိုင်",
+        "alphabet": "ရမက",
+        "file": "shn/SHN-056.pdf"
+      },
+      {
+        "name": "နမ့်စန်(တ)",
+        "department": "အထက၊နမ့်စန်(တ)",
+        "alphabet": "ရနစ",
+        "file": "shn/SHN-057.pdf"
+      },
+      {
+        "name": "နမ့်စန်(တ)",
+        "department": "အထက၊ခိုလန်(နမ့်စန်(တ))",
+        "alphabet": "ရနစ",
+        "file": "shn/SHN-058.pdf"
+      },
+      {
+        "name": "နမ့်စန်(တ)",
+        "department": "အထက၊ကွန်ဟိန်း",
+        "alphabet": "ရကဟ",
+        "file": "shn/SHN-059.pdf"
+      },
+      {
+        "name": "နမ့်စန်(တ)",
+        "department": "အထက၊မိုးနဲ",
+        "alphabet": "ရမန",
+        "file": "shn/SHN-060.pdf"
+      },
+      {
+        "name": "နမ့်စန်(တ)",
+        "department": "အထက၊တုန်ဟုန်း(မိုးနဲ)",
+        "alphabet": "ရမန",
+        "file": "shn/SHN-061.pdf"
+      },
+      {
+        "name": "မိုင်းရှူး",
+        "department": "အထက၊မိုင်းရှူး",
+        "alphabet": "ရမရ",
+        "file": "shn/SHN-062.pdf"
+      },
+      {
+        "name": "မိုင်းရှူး",
+        "department": "အထက၊ဝမ်ကန်(မိုင်းရှူး)",
+        "alphabet": "ရမရ",
+        "file": "shn/SHN-063.pdf"
+      },
+      {
+        "name": "မိုင်းရှူး",
+        "department": "အထက၊ကျေးသီး",
+        "alphabet": "ရကသ",
+        "file": "shn/SHN-064.pdf"
+      },
+      {
+        "name": "မိုင်းရှူး",
+        "department": "အထက၊မိုင်းနောင်(ကျေးသီး)",
+        "alphabet": "ရကသ",
+        "file": "shn/SHN-065.pdf"
+      },
+      {
+        "name": "လင်းခေး",
+        "department": "အထက၊လင်းခေး",
+        "alphabet": "ရလတ",
+        "file": "shn/SHN-066.pdf"
+      },
+      {
+        "name": "လင်းခေး",
+        "department": "အထက၊မိုင်းပန်",
+        "alphabet": "ရမပ",
+        "file": "shn/SHN-067.pdf"
+      },
+      {
+        "name": "လင်းခေး",
+        "department": "အထက၊မောက်မယ်",
+        "alphabet": "ရမတ",
+        "file": "shn/SHN-068.pdf"
+      },
+      {
+        "name": "လာရှိုး",
+        "department": "အထက(၆)လားရှိုး",
+        "alphabet": "ရလရ",
+        "file": "shn/SHN-069.pdf"
+      },
+      {
+        "name": "လာရှိုး",
+        "department": "အထက(၉)လားရှိုး",
+        "alphabet": "ရလရ",
+        "file": "shn/SHN-070.pdf"
+      },
+      {
+        "name": "တန့်ယန်း",
+        "department": "အထက(၁)တန့်ယန်း",
+        "alphabet": "ရတယ",
+        "file": "shn/SHN-071.pdf"
+      },
+      {
+        "name": "တန့်ယန်း",
+        "department": "အထက၊မိုင်းရယ်",
+        "alphabet": "ရရမ",
+        "file": "shn/SHN-072.pdf"
+      },
+      {
+        "name": "မူဆယ်",
+        "department": "အထက(၂)မူဆယ်",
+        "alphabet": "ရဆမ",
+        "file": "shn/SHN-073.pdf"
+      },
+      {
+        "name": "ကျောက်မဲ",
+        "department": "အထက(၁)ကျောက်မဲ",
+        "alphabet": "ရကမ",
+        "file": "shn/SHN-074.pdf"
+      },
+      {
+        "name": "ကျောက်မဲ",
+        "department": "အထက၊နမ့်လန်(သီပေါ)",
+        "alphabet": "ရသပ",
+        "file": "shn/SHN-075.pdf"
+      },
+      {
+        "name": "ကျောက်မဲ",
+        "department": "အထက(၁)နောင်ချို",
+        "alphabet": "ရနမ",
+        "file": "shn/SHN-076.pdf"
+      },
+      {
+        "name": "ကျိုင်းတုံ",
+        "department": "အထက(၂)ကျိုင်းတုံ",
+        "alphabet": "ရကတ",
+        "file": "shn/SHN-077.pdf"
+      },
+      {
+        "name": "ကျိုင်းတုံ",
+        "department": "အထက(၃)ကျိုင်းတုံ",
+        "alphabet": "ရကတ",
+        "file": "shn/SHN-078.pdf"
+      },
+      {
+        "name": "ကျိုင်းတုံ",
+        "department": "အထက(၄)ကျိုင်းတုံ",
+        "alphabet": "ရကတ",
+        "file": "shn/SHN-079.pdf"
+      },
+      {
+        "name": "ကျိုင်းတုံ",
+        "department": "အထက၊မိုင်းခတ်",
+        "alphabet": "ရမခ",
+        "file": "shn/SHN-080.pdf"
+      },
+      {
+        "name": "ကျိုင်းတုံ",
+        "department": "အထက၊မိုင်းပျဉ်း",
+        "alphabet": "ရပရ",
+        "file": "shn/SHN-081.pdf"
+      },
+      {
+        "name": "မက်မန်း",
+        "department": "အထက၊မက်မန်း",
+        "alphabet": "ရဝမ",
+        "file": "shn/SHN-082.pdf"
+      },
+      {
+        "name": "မိုင်းဆတ်",
+        "department": "အထက၊မိုင်းဆတ်",
+        "alphabet": "ရမဆ",
+        "file": "shn/SHN-083.pdf"
+      },
+      {
+        "name": "မိုင်းတုံ",
+        "department": "အထက၊မိုင်းတုံ",
+        "alphabet": "ရတရ",
+        "file": "shn/SHN-084.pdf"
+      },
+      {
+        "name": "တာချီလိတ်",
+        "department": "အထက၊တာချီလိတ်",
+        "alphabet": "ရတလ",
+        "file": "shn/SHN-085.pdf"
+      },
+      {
+        "name": "တာချီလိတ်",
+        "department": "အထက၊တာလေ(တာချီလိတ်)",
+        "alphabet": "ရတလ",
+        "file": "shn/SHN-086.pdf"
+      },
+      {
+        "name": "တာချီလိတ်",
+        "department": "အထက၊မိုင်းဖြတ်",
+        "alphabet": "ရမဖ",
+        "file": "shn/SHN-087.pdf"
+      },
+      {
+        "name": "မိုင်းယောင်း",
+        "department": "အထက၊မိုင်းယောင်း",
+        "alphabet": "ရယရ",
+        "file": "shn/SHN-088.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ရခိုင်ပြည်နယ်",
+    "districts": [
+      {
+        "name": "စစ်တွေ",
+        "department": "အထက(၄)စစ်တွေ",
+        "alphabet": "ဒစတ",
+        "file": "rke/RKE-001.pdf"
+      },
+      {
+        "name": "စစ်တွေ",
+        "department": "အထက(၂)စစ်တွေ",
+        "alphabet": "ဒစတ",
+        "file": "rke/RKE-002.pdf"
+      },
+      {
+        "name": "စစ်တွေ",
+        "department": "အထက(၆)စစ်တွေ",
+        "alphabet": "ဒစတ",
+        "file": "rke/RKE-003.pdf"
+      },
+      {
+        "name": "စစ်တွေ",
+        "department": "အထက၊သက္ကေပြင်ကုန်း(စစ်တွေ)",
+        "alphabet": "ဒစတ",
+        "file": "rke/RKE-004.pdf"
+      },
+      {
+        "name": "ကျောက်ဖြူ",
+        "department": "အထက(၁)ကျောက်ဖြူ",
+        "alphabet": "ဒကဖ",
+        "file": "rke/RKE-005.pdf"
+      },
+      {
+        "name": "တောင်ကုတ်",
+        "department": "အထက၊မာန်အောင်",
+        "alphabet": "ဒမအ",
+        "file": "rke/RKE-006.pdf"
+      },
+      {
+        "name": "တောင်ကုတ်",
+        "department": "အထက(ခွဲ)ဈေးတန်း(မာန်အောင်)",
+        "alphabet": "ဒမအ",
+        "file": "rke/RKE-007.pdf"
+      },
+      {
+        "name": "တောင်ကုတ်",
+        "department": "အထက၊ဇရပ်ကုန်းခင်(မာန်အောင်)",
+        "alphabet": "ဒမအ",
+        "file": "rke/RKE-008.pdf"
+      },
+      {
+        "name": "တောင်ကုတ်",
+        "department": "အထက၊ကျောက်တန်း(မာန်အောင်)",
+        "alphabet": "ဒမအ",
+        "file": "rke/RKE-009.pdf"
+      },
+      {
+        "name": "တောင်ကုတ်",
+        "department": "အထက၊ကမား(မာန်အောင်)",
+        "alphabet": "ဒမအ",
+        "file": "rke/RKE-010.pdf"
+      }
+    ]
+  },
+  {
+    "region": "မွန်ပြည်နယ်",
+    "districts": [
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၇)မော်လမြိုင်",
+        "alphabet": "ညလမ",
+        "file": "mon/MON-001.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၈)မော်လမြိုင်",
+        "alphabet": "ညလမ",
+        "file": "mon/MON-002.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၉)မော်လမြိုင်",
+        "alphabet": "ညလမ",
+        "file": "mon/MON-003.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၁၀)မော်လမြိုင်",
+        "alphabet": "ညလမ",
+        "file": "mon/MON-004.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၁၁)မော်လမြိုင်",
+        "alphabet": "ညလမ",
+        "file": "mon/MON-005.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၁၂)မော်လမြိုင်",
+        "alphabet": "ညလမ",
+        "file": "mon/MON-006.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက၊ရွှေနတ်တောင်(မော်လမြိုင်)",
+        "alphabet": "ညလမ",
+        "file": "mon/MON-007.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက၊ချောင်းဆုံ",
+        "alphabet": "ညခဆ",
+        "file": "mon/MON-008.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၁)မုဒုံ",
+        "alphabet": "ညမဒ",
+        "file": "mon/MON-009.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၂)မုဒုံ",
+        "alphabet": "ညမဒ",
+        "file": "mon/MON-010.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက၊ကမာဝက်(မုဒုံ)",
+        "alphabet": "ညမဒ",
+        "file": "mon/MON-011.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၁)သံဖြူဇရပ်",
+        "alphabet": "ညသဖ",
+        "file": "mon/MON-012.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက(၂)သံဖြူဇရပ်",
+        "alphabet": "ညသဖ",
+        "file": "mon/MON-013.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက၊ကျိုက္ခမီ(သံဖြူဇရပ်)",
+        "alphabet": "ညသဖ",
+        "file": "mon/MON-014.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက၊ကျုံကဒတ်(သံဖြူဇရပ်)",
+        "alphabet": "ညသဖ",
+        "file": "mon/MON-015.pdf"
+      },
+      {
+        "name": "မော်လမြိုင်",
+        "department": "အထက၊ကျိုက်မရော",
+        "alphabet": "ညကရ",
+        "file": "mon/MON-016.pdf"
+      },
+      {
+        "name": "ရေး",
+        "department": "အထက(၁)ရေး",
+        "alphabet": "ညရမ",
+        "file": "mon/MON-017.pdf"
+      },
+      {
+        "name": "ရေး",
+        "department": "အထက၊လမိုင်း(ရေး)",
+        "alphabet": "ညရမ",
+        "file": "mon/MON-018.pdf"
+      },
+      {
+        "name": "သထုံ",
+        "department": "အထက(၁)သထုံ",
+        "alphabet": "ညသထ",
+        "file": "mon/MON-019.pdf"
+      },
+      {
+        "name": "သထုံ",
+        "department": "အထက(၂)သထုံ",
+        "alphabet": "ညသထ",
+        "file": "mon/MON-020.pdf"
+      },
+      {
+        "name": "သထုံ",
+        "department": "အထက၊ကျိုက္ကော်(သထုံ)",
+        "alphabet": "ညသထ",
+        "file": "mon/MON-021.pdf"
+      },
+      {
+        "name": "သထုံ",
+        "department": "အထက၊သိမ်ဆိပ်(သထုံ)",
+        "alphabet": "ညသထ",
+        "file": "mon/MON-022.pdf"
+      },
+      {
+        "name": "သထုံ",
+        "department": "အထက၊ပေါင်",
+        "alphabet": "ညပမ",
+        "file": "mon/MON-023.pdf"
+      },
+      {
+        "name": "သထုံ",
+        "department": "အထက၊မုတ္တမ(ပေါင်)",
+        "alphabet": "ညပမ",
+        "file": "mon/MON-024.pdf"
+      },
+      {
+        "name": "သထုံ",
+        "department": "အထက၊ဇင်းကျိုက်(ပေါင်)",
+        "alphabet": "ညပမ",
+        "file": "mon/MON-025.pdf"
+      },
+      {
+        "name": "ကျိုက်ထို",
+        "department": "အထက(၁)ကျိုက်ထို",
+        "alphabet": "ညကထ",
+        "file": "mon/MON-026.pdf"
+      },
+      {
+        "name": "ကျိုက်ထို",
+        "department": "အထက(၂)ကျိုက်ထို",
+        "alphabet": "ညကထ",
+        "file": "mon/MON-027.pdf"
+      },
+      {
+        "name": "ကျိုက်ထို",
+        "department": "အထက၊သိမ်ဇရပ်(ကျိုက်ထို)",
+        "alphabet": "ညကထ",
+        "file": "mon/MON-028.pdf"
+      },
+      {
+        "name": "ကျိုက်ထို",
+        "department": "အထက၊ဘီးလင်း",
+        "alphabet": "ညဘလ",
+        "file": "mon/MON-029.pdf"
+      },
+      {
+        "name": "ကျိုက်ထို",
+        "department": "အထက၊တောင်စွန်း(ဘီးလင်း)",
+        "alphabet": "ညဘလ",
+        "file": "mon/MON-030.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ချင်းပြည်နယ်",
+    "districts": [
+      {
+        "name": "ဟားခါး",
+        "department": "အထက(၁)ဟားခါး",
+        "alphabet": "ခဟခ",
+        "file": "chn/CHN-001.pdf"
+      },
+      {
+        "name": "တီးတိန်",
+        "department": "အထက(၁)တီးတိန်",
+        "alphabet": "ခတတ",
+        "file": "chn/CHN-002.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ကရင်ပြည်နယ်",
+    "districts": [
+      {
+        "name": "ဘားအံ",
+        "department": "အထက(၁)ဘားအံ",
+        "alphabet": "လဘအ",
+        "file": "kyn/KYN-001.pdf"
+      },
+      {
+        "name": "ဘားအံ",
+        "department": "အထက(၂)ဘားအံ",
+        "alphabet": "လဘအ",
+        "file": "kyn/KYN-002.pdf"
+      },
+      {
+        "name": "ဘားအံ",
+        "department": "အထက(၃)ဘားအံ",
+        "alphabet": "လဘအ",
+        "file": "kyn/KYN-003.pdf"
+      },
+      {
+        "name": "ဘားအံ",
+        "department": "အထက(၄)ဘားအံ",
+        "alphabet": "လဘအ",
+        "file": "kyn/KYN-004.pdf"
+      },
+      {
+        "name": "ဘားအံ",
+        "department": "အထက၊လှိုင်းဘွဲ့",
+        "alphabet": "လလဘ",
+        "file": "kyn/KYN-005.pdf"
+      },
+      {
+        "name": "ဘားအံ",
+        "department": "အထက၊ရွှေဂွန်း(လှိုင်းဘွဲ့)",
+        "alphabet": "လလဘ",
+        "file": "kyn/KYN-006.pdf"
+      },
+      {
+        "name": "သံတောင်ကြီး",
+        "department": "အထက၊လိပ်သို(သံတောင်ကြီး)",
+        "alphabet": "လသတ",
+        "file": "kyn/KYN-007.pdf"
+      },
+      {
+        "name": "သံတောင်ကြီး",
+        "department": "အထက၊ဘုရင့်နောင်တပ်(သံတောင်ကြီး)",
+        "alphabet": "လသတ",
+        "file": "kyn/KYN-008.pdf"
+      },
+      {
+        "name": "ဖာပွန်",
+        "department": "အထက၊ကမမောင်း(ဖာပွန်)",
+        "alphabet": "လဖပ",
+        "file": "kyn/KYN-009.pdf"
+      },
+      {
+        "name": "ကော့ကရိတ်",
+        "department": "အထက(၂)ကော့ကရိတ်",
+        "alphabet": "လကရ",
+        "file": "kyn/KYN-010.pdf"
+      },
+      {
+        "name": "ကြာအင်းဆိပ်ကြီး",
+        "department": "အထက၊ကြာအင်းဆိပ်ကြီး",
+        "alphabet": "လကအ",
+        "file": "kyn/KYN-011.pdf"
+      },
+      {
+        "name": "မြဝတီ",
+        "department": "အထက(၁)မြဝတီ",
+        "alphabet": "လမဝ",
+        "file": "kyn/KYN-012.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ကယားပြည်နယ်",
+    "districts": [
+      {
+        "name": "လွိုင်ကော်",
+        "department": "အထက(၁)လွိုင်ကော်",
+        "alphabet": "ယလက",
+        "file": "kyh/KYH-001.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ကချင်ပြည်နယ်",
+    "districts": [
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၁)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-001.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၂)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-002.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၃)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-003.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၄)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-004.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၅)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-005.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၇)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-006.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၈)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-007.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၉)မြစ်ကြီးနား",
+        "alphabet": "ကမန",
+        "file": "kcn/KCN-008.pdf"
+      },
+      {
+        "name": "မြစ်ကြီးနား",
+        "department": "အထက(၁)ဝိုင်းမော်",
+        "alphabet": "ကဝမ",
+        "file": "kcn/KCN-009.pdf"
+      },
+      {
+        "name": "တနိုင်း",
+        "department": "အထက(၁)တနိုင်း",
+        "alphabet": "ကတန",
+        "file": "kcn/KCN-010.pdf"
+      },
+      {
+        "name": "တနိုင်း",
+        "department": "အထက၊ရှင်ဗွေယန်(တနိုင်း)",
+        "alphabet": "ကတန",
+        "file": "kcn/KCN-011.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက(၁)မိုးညှင်း",
+        "alphabet": "ကမည",
+        "file": "kcn/KCN-012.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက(၂)မိုးညှင်း",
+        "alphabet": "ကမည",
+        "file": "kcn/KCN-013.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက၊ဟိုပင်(မိုးညှင်း)",
+        "alphabet": "ကမည",
+        "file": "kcn/KCN-014.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက(၁)မိုးကောင်း",
+        "alphabet": "ကမက",
+        "file": "kcn/KCN-015.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက၊နမ္မတီး(မိုးကောင်း)",
+        "alphabet": "ကမက",
+        "file": "kcn/KCN-016.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက၊ပင်းဘော(မိုးကောင်း)",
+        "alphabet": "ကမက",
+        "file": "kcn/KCN-017.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက၊ဖားကန့်",
+        "alphabet": "ကဖက",
+        "file": "kcn/KCN-018.pdf"
+      },
+      {
+        "name": "မိုးညှင်း",
+        "department": "အထက၊ကာမိုင်း(ဖားကန့်)",
+        "alphabet": "ကဖက",
+        "file": "kcn/KCN-019.pdf"
+      },
+      {
+        "name": "ဗန်းမော်",
+        "department": "အထက(၁)ရွှေကူ",
+        "alphabet": "ကရက",
+        "file": "kcn/KCN-020.pdf"
+      },
+      {
+        "name": "ပူတာအို",
+        "department": "အထက၊ပူတာအို",
+        "alphabet": "ကပအ",
+        "file": "kcn/KCN-021.pdf"
+      },
+      {
+        "name": "ပူတာအို",
+        "department": "အထက၊မချမ်းဘော့",
+        "alphabet": "ကမဘ",
+        "file": "kcn/KCN-022.pdf"
+      },
+      {
+        "name": "ပူတာအို",
+        "department": "အထက၊နောင်မွန်",
+        "alphabet": "ကနမ",
+        "file": "kcn/KCN-023.pdf"
+      }
+    ]
+  },
+  {
+    "region": "တနင်္သာရီတိုင်းဒေသကြီး",
+    "districts": [
+      {
+        "name": "ထားဝယ်",
+        "department": "အထက(၁)ထားဝယ်",
+        "alphabet": "တထဝ",
+        "file": "tni/TNI-001.pdf"
+      },
+      {
+        "name": "ထားဝယ်",
+        "department": "အထက၊ရေဖြူ",
+        "alphabet": "တရဖ",
+        "file": "tni/TNI-002.pdf"
+      },
+      {
+        "name": "ထားဝယ်",
+        "department": "အထက၊ကံပေါက်(ရေဖြူ)",
+        "alphabet": "တရဖ",
+        "file": "tni/TNI-003.pdf"
+      },
+      {
+        "name": "ထားဝယ်",
+        "department": "အထက၊သရက်ချောင်း",
+        "alphabet": "တသခ",
+        "file": "tni/TNI-004.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက(၁)မြိတ်",
+        "alphabet": "တမမ",
+        "file": "tni/TNI-005.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက(၂)မြိတ်",
+        "alphabet": "တမမ",
+        "file": "tni/TNI-006.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက(၅)မြိတ်",
+        "alphabet": "တမမ",
+        "file": "tni/TNI-007.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက(၆)မြိတ်",
+        "alphabet": "တမမ",
+        "file": "tni/TNI-008.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက၊ကျွဲကူး(တပ်နယ်)(မြိတ်)",
+        "alphabet": "တမမ",
+        "file": "tni/TNI-009.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက၊အင်္ဂမော်(မြိတ်)",
+        "alphabet": "တမမ",
+        "file": "tni/TNI-010.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက၊တနင်္သာရီ",
+        "alphabet": "တနရ",
+        "file": "tni/TNI-011.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက၊ကျွန်းစု",
+        "alphabet": "တကစ",
+        "file": "tni/TNI-012.pdf"
+      },
+      {
+        "name": "မြိတ်",
+        "department": "အထက(၁)ပုလော",
+        "alphabet": "တပလ",
+        "file": "tni/TNI-013.pdf"
+      },
+      {
+        "name": "ကော့သောင်း",
+        "department": "အထက(၁)ကော့သောင်း",
+        "alphabet": "တကသ",
+        "file": "tni/TNI-014.pdf"
+      },
+      {
+        "name": "ကော့သောင်း",
+        "department": "အထက(၂)တပ်နယ်(ကော့သောင်း)",
+        "alphabet": "တကသ",
+        "file": "tni/TNI-015.pdf"
+      },
+      {
+        "name": "ကော့သောင်း",
+        "department": "အထက၊ခမောက်ကြီး(ကော့သောင်း)",
+        "alphabet": "တကသ",
+        "file": "tni/TNI-016.pdf"
+      },
+      {
+        "name": "ဘုတ်ပြင်း",
+        "department": "အထက၊ဘုတ်ပြင်း",
+        "alphabet": "တဘပ",
+        "file": "tni/TNI-017.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ပဲခူးတိုင်းဒေသကြီး",
+    "districts": [
+      {
+        "name": "ပဲခူး",
+        "department": "အထက(၁)ပဲခူး",
+        "alphabet": "ပခမ",
+        "file": "bgo/BGO-001.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက(၂)ပဲခူး",
+        "alphabet": "ပခမ",
+        "file": "bgo/BGO-002.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက(၃)ပဲခူး",
+        "alphabet": "ပခမ",
+        "file": "bgo/BGO-003.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊ဘုရားကြီး(ပဲခူး)",
+        "alphabet": "ပခမ",
+        "file": "bgo/BGO-004.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊အင်းတကော်(ပဲခူး)",
+        "alphabet": "ပခမ",
+        "file": "bgo/BGO-005.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊သနပ်ပင်",
+        "alphabet": "ပသပ",
+        "file": "bgo/BGO-006.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊မင်းရွာ(သနပ်ပင်)",
+        "alphabet": "ပသပ",
+        "file": "bgo/BGO-007.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊ဝေါ",
+        "alphabet": "ပဝမ",
+        "file": "bgo/BGO-008.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊ညောင်ခါးရှည်(ဝေါ)",
+        "alphabet": "ပဝမ",
+        "file": "bgo/BGO-009.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊ကဝ",
+        "alphabet": "ပကဝ",
+        "file": "bgo/BGO-010.pdf"
+      },
+      {
+        "name": "ပဲခူး",
+        "department": "အထက၊အုန်းနှဲ(ကဝ)",
+        "alphabet": "ပကဝ",
+        "file": "bgo/BGO-011.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက(၁)ညောင်လေးပင်",
+        "alphabet": "ပညပ",
+        "file": "bgo/BGO-012.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက(၂)ပြွန်တန်ဆာ(ညောင်လေးပင်)",
+        "alphabet": "ပညပ",
+        "file": "bgo/BGO-013.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက၊ကျောက်တံခါး",
+        "alphabet": "ပကခ",
+        "file": "bgo/BGO-014.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက၊ဖဒို(ကျောက်တံခါး)",
+        "alphabet": "ပကခ",
+        "file": "bgo/BGO-015.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက၊ပဲနွယ်ကုန်း(စက်၊စိုက်၊မွေး)(ကျောက်တံခါး)",
+        "alphabet": "ပကခ",
+        "file": "bgo/BGO-016.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက၊ကျောက်ကြီး",
+        "alphabet": "ပကက",
+        "file": "bgo/BGO-017.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက၊ရွှေကျင်",
+        "alphabet": "ပရက",
+        "file": "bgo/BGO-018.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက(၁)ဒိုက်ဦး",
+        "alphabet": "ပဒဥ",
+        "file": "bgo/BGO-019.pdf"
+      },
+      {
+        "name": "ညောင်လေးပင်",
+        "department": "အထက(၂)ဒိုက်ဦး",
+        "alphabet": "ပဒဥ",
+        "file": "bgo/BGO-020.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက(၁)တောင်ငူ",
+        "alphabet": "ပတင",
+        "file": "bgo/BGO-021.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက(၂)တောင်ငူ",
+        "alphabet": "ပတင",
+        "file": "bgo/BGO-022.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက(၄)တောင်ငူ",
+        "alphabet": "ပတင",
+        "file": "bgo/BGO-023.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊နတ်စင်ကုန်း(တောင်ငူ)",
+        "alphabet": "ပတင",
+        "file": "bgo/BGO-024.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊လေးမိုင်(တောင်ငူ)",
+        "alphabet": "ပတင",
+        "file": "bgo/BGO-025.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊ထန်းတပင်",
+        "alphabet": "ပထပ",
+        "file": "bgo/BGO-026.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊အုတ်တွင်း",
+        "alphabet": "ပအတ",
+        "file": "bgo/BGO-027.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊ကျွဲပွဲ(အုတ်တွင်း)",
+        "alphabet": "ပအတ",
+        "file": "bgo/BGO-028.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊ထန်းကုန်း(အုတ်တွင်း)",
+        "alphabet": "ပအတ",
+        "file": "bgo/BGO-029.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊တပ်နယ်(အုတ်တွင်း)",
+        "alphabet": "ပအတ",
+        "file": "bgo/BGO-030.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက(၁)ဖြူး",
+        "alphabet": "ပဖမ",
+        "file": "bgo/BGO-031.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက(၂)ဖြူး",
+        "alphabet": "ပဖမ",
+        "file": "bgo/BGO-032.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက(၁)ကညွတ်ကွင်း(ဖြူး)",
+        "alphabet": "ပဖမ",
+        "file": "bgo/BGO-033.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက(၂)ဇေယျဝတီ(ဖြူး)",
+        "alphabet": "ပဖမ",
+        "file": "bgo/BGO-034.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊ရေတာရှည်",
+        "alphabet": "ပရရ",
+        "file": "bgo/BGO-035.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊ရွှေကြက်ယက်(ရေတာရှည်)",
+        "alphabet": "ပရရ",
+        "file": "bgo/BGO-036.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊သာဂရ(ရေတာရှည်)",
+        "alphabet": "ပရရ",
+        "file": "bgo/BGO-037.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊ဆွာ(ရေတာရှည်)",
+        "alphabet": "ပရရ",
+        "file": "bgo/BGO-038.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊ရေနီ(ရေတာရှည်)",
+        "alphabet": "ပရရ",
+        "file": "bgo/BGO-039.pdf"
+      },
+      {
+        "name": "တောင်ငူ",
+        "department": "အထက၊မြို့လှ(ရေတာရှည်)",
+        "alphabet": "ပရရ",
+        "file": "bgo/BGO-040.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက(၁)ပြည်",
+        "alphabet": "ပပမ",
+        "file": "bgo/BGO-041.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက(၄)ပြည်",
+        "alphabet": "ပပမ",
+        "file": "bgo/BGO-042.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက(၅)ပြည်",
+        "alphabet": "ပပမ",
+        "file": "bgo/BGO-043.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ဝက်ထီးကန်(ပြည်)",
+        "alphabet": "ပပမ",
+        "file": "bgo/BGO-044.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ပေါင်းတလည်(ပြည်)",
+        "alphabet": "ပပမ",
+        "file": "bgo/BGO-045.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊အိုးဘိုကုန်း(ပေါက်ခေါင်း)",
+        "alphabet": "ပပခ",
+        "file": "bgo/BGO-046.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ပန်းတောင်း",
+        "alphabet": "ပပတ",
+        "file": "bgo/BGO-047.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ရှားဖြူကွင်း(ပန်းတောင်း)",
+        "alphabet": "ပပတ",
+        "file": "bgo/BGO-048.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ဆင်တဲ(ပန်းတောင်း)",
+        "alphabet": "ပပတ",
+        "file": "bgo/BGO-049.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ဂုံညှင်းတန်း(ပန်းတောင်း)",
+        "alphabet": "ပပတ",
+        "file": "bgo/BGO-050.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ထုံးဘို(ပန်းတောင်း)",
+        "alphabet": "ပပတ",
+        "file": "bgo/BGO-051.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ဥသျှစ်ပင်(ပန်းတောင်း)",
+        "alphabet": "ပပတ",
+        "file": "bgo/BGO-052.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ရွှေတောင်",
+        "alphabet": "ပရတ",
+        "file": "bgo/BGO-053.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊တရုတ်မှော်(ရွှေတောင်)",
+        "alphabet": "ပရတ",
+        "file": "bgo/BGO-054.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ကျီးသဲ(ရွှေတောင်)",
+        "alphabet": "ပရတ",
+        "file": "bgo/BGO-055.pdf"
+      },
+      {
+        "name": "ပြည်",
+        "department": "အထက၊ကြာနီကန်(ရွှေတောင်)",
+        "alphabet": "ပရတ",
+        "file": "bgo/BGO-056.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက(၁)သာယာဝတီ",
+        "alphabet": "ပသယ",
+        "file": "bgo/BGO-057.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊သုံးဆယ်(သာယာဝတီ)",
+        "alphabet": "ပသယ",
+        "file": "bgo/BGO-058.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက(၁)လက်ပံတန်း",
+        "alphabet": "ပလတ",
+        "file": "bgo/BGO-059.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊သာရဝေါ(လက်ပံတန်း)",
+        "alphabet": "ပလတ",
+        "file": "bgo/BGO-060.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ဇီးဖြူကုန်း(လက်ပံတန်း)",
+        "alphabet": "ပလတ",
+        "file": "bgo/BGO-061.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ခမုံဆိပ်(လက်ပံတန်း)",
+        "alphabet": "ပလတ",
+        "file": "bgo/BGO-062.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊မင်းလှ(မြို့ပြင်)",
+        "alphabet": "ပမလ",
+        "file": "bgo/BGO-063.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊စစ်ကွင်း(မင်းလှ)",
+        "alphabet": "ပမလ",
+        "file": "bgo/BGO-064.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊မိုးညို",
+        "alphabet": "ပမည",
+        "file": "bgo/BGO-065.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ရေကင်း(မိုးညို)",
+        "alphabet": "ပမည",
+        "file": "bgo/BGO-066.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ထိန်တော(မိုးညို)",
+        "alphabet": "ပမည",
+        "file": "bgo/BGO-067.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ပတ္တော်(မိုးညို)",
+        "alphabet": "ပမည",
+        "file": "bgo/BGO-068.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ဆင်မနိုင်(မိုးညို)",
+        "alphabet": "ပမည",
+        "file": "bgo/BGO-069.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ကြို့ပင်ကောက်",
+        "alphabet": "ပကပ",
+        "file": "bgo/BGO-070.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ပန်းတင်(ကြို့ပင်ကောက်)",
+        "alphabet": "ပကပ",
+        "file": "bgo/BGO-071.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊ရွှေပန်းတော(ကြို့ပင်ကောက်)",
+        "alphabet": "ပကပ",
+        "file": "bgo/BGO-072.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊လယ်တီ(ကြို့ပင်ကောက်)",
+        "alphabet": "ပကပ",
+        "file": "bgo/BGO-073.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊အုတ်ဖို",
+        "alphabet": "ပအဖ",
+        "file": "bgo/BGO-074.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊အိုးသည်ကုန်း(အုတ်ဖို)",
+        "alphabet": "ပအဖ",
+        "file": "bgo/BGO-075.pdf"
+      },
+      {
+        "name": "သာယာဝတီ",
+        "department": "အထက၊အေးမြသာယာ(အုတ်ဖို)",
+        "alphabet": "ပအဖ",
+        "file": "bgo/BGO-076.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊နတ်တလင်း",
+        "alphabet": "ပနလ",
+        "file": "bgo/BGO-077.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊တာပွန်(နတ်တလင်း)",
+        "alphabet": "ပနလ",
+        "file": "bgo/BGO-078.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊ဇီးကုန်း",
+        "alphabet": "ပဇက",
+        "file": "bgo/BGO-079.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊လေးမျက်နှာ(ဇီးကုန်း)",
+        "alphabet": "ပဇက",
+        "file": "bgo/BGO-080.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊သဲကုန်း",
+        "alphabet": "ပသက",
+        "file": "bgo/BGO-081.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊ပုတီးကုန်း(သဲကုန်း)",
+        "alphabet": "ပသက",
+        "file": "bgo/BGO-082.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊အင်းမ(သဲကုန်း)",
+        "alphabet": "ပသက",
+        "file": "bgo/BGO-083.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊ဆင်မြီးဆွဲ(သဲကုန်း)",
+        "alphabet": "ပသက",
+        "file": "bgo/BGO-084.pdf"
+      },
+      {
+        "name": "နတ်တလင်း",
+        "department": "အထက၊ပေါင်းတည်",
+        "alphabet": "ပတမ",
+        "file": "bgo/BGO-085.pdf"
+      }
+    ]
+  },
+  {
+    "region": "မကွေးတိုင်းဒေသကြီး",
+    "districts": [
+      {
+        "name": "မကွေး",
+        "department": "အထက(၁)မကွေး",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-001.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက(၂)မကွေး",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-002.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက(၃)မကွေး",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-003.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက(၄)မကွေး",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-004.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အလက(ရဲ)မကွေး",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-005.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက၊ကန်ပြား(မကွေး)",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-006.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက၊မြင်ကွန်း(မကွေး)",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-007.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက၊မိကျောင်းရဲ(မကွေး)",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-008.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက၊သစ်ရာကောက်(မကွေး)",
+        "alphabet": "ဖမက",
+        "file": "mgy/MGY-009.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက(၁)မြို့သစ်",
+        "alphabet": "ဖမသ",
+        "file": "mgy/MGY-010.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက၊ဝါးကြီးအိုင်(မြို့သစ်)",
+        "alphabet": "ဖမသ",
+        "file": "mgy/MGY-011.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက(၁)တောင်တွင်းကြီး",
+        "alphabet": "ဖတတ",
+        "file": "mgy/MGY-012.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက(၂)တောင်တွင်းကြီး",
+        "alphabet": "ဖတတ",
+        "file": "mgy/MGY-013.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက၊ဆတ်သွား(တောင်တွင်းကြီး)",
+        "alphabet": "ဖတတ",
+        "file": "mgy/MGY-014.pdf"
+      },
+      {
+        "name": "မကွေး",
+        "department": "အထက၊အောင်ဆန်း(နတ်မောက်)",
+        "alphabet": "ဖနမ",
+        "file": "mgy/MGY-015.pdf"
+      },
+      {
+        "name": "ချောက်",
+        "department": "အထက(၁)ချောက်",
+        "alphabet": "ဖခမ",
+        "file": "mgy/MGY-016.pdf"
+      },
+      {
+        "name": "ချောက်",
+        "department": "အထက၊ဂွေးချို(စက်၊စိုက်၊မွေး)(ချောက်)",
+        "alphabet": "ဖခမ",
+        "file": "mgy/MGY-017.pdf"
+      },
+      {
+        "name": "ချောက်",
+        "department": "အထက၊စလေ(ချောက်)",
+        "alphabet": "ဖခမ",
+        "file": "mgy/MGY-018.pdf"
+      },
+      {
+        "name": "ချောက်",
+        "department": "အထက(၁)ရေနံချောင်း",
+        "alphabet": "ဖရန",
+        "file": "mgy/MGY-019.pdf"
+      },
+      {
+        "name": "ချောက်",
+        "department": "အထက(၃)ရေနံချောင်း",
+        "alphabet": "ဖရန",
+        "file": "mgy/MGY-020.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက(၁)မင်းဘူး",
+        "alphabet": "ဖမဘ",
+        "file": "mgy/MGY-021.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊စကု(စက်၊စိုက်၊မွေး)(မင်းဘူး)",
+        "alphabet": "ဖမဘ",
+        "file": "mgy/MGY-022.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊မုန်တောင်(မင်းဘူး)",
+        "alphabet": "ဖမဘ",
+        "file": "mgy/MGY-023.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊ပွင့်ဖြူ",
+        "alphabet": "ဖပဖ",
+        "file": "mgy/MGY-024.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊ကုန်းဇောင်း(ပွင့်ဖြူ)",
+        "alphabet": "ဖပဖ",
+        "file": "mgy/MGY-025.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက(၁)စလင်း",
+        "alphabet": "ဖစလ",
+        "file": "mgy/MGY-026.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊ဆင်ဖြူကျွန်း(စလင်း)",
+        "alphabet": "ဖစလ",
+        "file": "mgy/MGY-027.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊တပ်တွင်း(စလင်း)",
+        "alphabet": "ဖစလ",
+        "file": "mgy/MGY-028.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊စေတုတ္တရာ",
+        "alphabet": "ဖစတ",
+        "file": "mgy/MGY-029.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊ငဖဲ",
+        "alphabet": "ဖငဖ",
+        "file": "mgy/MGY-030.pdf"
+      },
+      {
+        "name": "မင်းဘူး",
+        "department": "အထက၊ပဒါန်း(ငဖဲ)",
+        "alphabet": "ဖငဖ",
+        "file": "mgy/MGY-031.pdf"
+      },
+      {
+        "name": "သရက်",
+        "department": "အထက(၁)သရက်(စက်၊စိုက်၊မွေး)",
+        "alphabet": "ဖသရ",
+        "file": "mgy/MGY-032.pdf"
+      },
+      {
+        "name": "သရက်",
+        "department": "အထက၊မင်းတုန်း",
+        "alphabet": "ဖမတ",
+        "file": "mgy/MGY-033.pdf"
+      },
+      {
+        "name": "သရက်",
+        "department": "အထက၊မင်းလှ",
+        "alphabet": "ဖမလ",
+        "file": "mgy/MGY-034.pdf"
+      },
+      {
+        "name": "သရက်",
+        "department": "အထက၊ကံမ",
+        "alphabet": "ဖကမ",
+        "file": "mgy/MGY-035.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက(၁)အောင်လံ",
+        "alphabet": "ဖအလ",
+        "file": "mgy/MGY-036.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက၊ရွာထောင်(အောင်လံ)",
+        "alphabet": "ဖအလ",
+        "file": "mgy/MGY-037.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက၊ပြလို့(စက်၊စိုက်၊မွေး)(အောင်လံ)",
+        "alphabet": "ဖအလ",
+        "file": "mgy/MGY-038.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက၊ညောင်ပင်ဆိပ်(အောင်လံ)",
+        "alphabet": "ဖအလ",
+        "file": "mgy/MGY-039.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက၊ကျီရပ်ကုန်း(အောင်လံ)",
+        "alphabet": "ဖအလ",
+        "file": "mgy/MGY-040.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက၊ဆင်ပေါင်ဝဲ",
+        "alphabet": "ဖဆဝ",
+        "file": "mgy/MGY-041.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက၊ချောင်းကောက်(ဆင်ပေါင်ဝဲ)",
+        "alphabet": "ဖဆဝ",
+        "file": "mgy/MGY-042.pdf"
+      },
+      {
+        "name": "အောင်လံ",
+        "department": "အထက၊လက်ပန်(ဆင်ပေါင်ဝဲ)",
+        "alphabet": "ဖဆဝ",
+        "file": "mgy/MGY-043.pdf"
+      },
+      {
+        "name": "ပခုက္ကူ",
+        "department": "အထက(၁)ပခုက္ကူ",
+        "alphabet": "ဖပခ",
+        "file": "mgy/MGY-044.pdf"
+      },
+      {
+        "name": "ပခုက္ကူ",
+        "department": "အထက၊ဝါဇီ(ပခုက္ကူ)",
+        "alphabet": "ဖပခ",
+        "file": "mgy/MGY-045.pdf"
+      },
+      {
+        "name": "ပခုက္ကူ",
+        "department": "အထက၊ရေစကြို",
+        "alphabet": "ဖရစ",
+        "file": "mgy/MGY-046.pdf"
+      },
+      {
+        "name": "ပခုက္ကူ",
+        "department": "အထက၊ပေါက်",
+        "alphabet": "ဖပမ",
+        "file": "mgy/MGY-047.pdf"
+      },
+      {
+        "name": "ပခုက္ကူ",
+        "department": "အထက၊ဆိပ်ဖြူ",
+        "alphabet": "ဖဆဖ",
+        "file": "mgy/MGY-048.pdf"
+      },
+      {
+        "name": "ပခုက္ကူ",
+        "department": "အထက(ခွဲ)ကပစ(၂၁)(ဆိပ်ဖြူ)",
+        "alphabet": "ဖဆဖ",
+        "file": "mgy/MGY-049.pdf"
+      },
+      {
+        "name": "ဂန့်ဂေါ",
+        "department": "အထက၊ဂန့်ဂေါ",
+        "alphabet": "ဖဂဂ",
+        "file": "mgy/MGY-050.pdf"
+      },
+      {
+        "name": "ဂန့်ဂေါ",
+        "department": "အထက၊ကျော(ဂန့်ဂေါ)",
+        "alphabet": "ဖဂဂ",
+        "file": "mgy/MGY-051.pdf"
+      },
+      {
+        "name": "ဂန့်ဂေါ",
+        "department": "အထက၊ဟံသာဝတီ(ဂန့်ဂေါ)",
+        "alphabet": "ဖဂဂ",
+        "file": "mgy/MGY-052.pdf"
+      }
+    ]
+  },
+  {
+    "region": "စစ်ကိုင်းတိုင်းဒေသကြီး",
+    "districts": [
+      {
+        "name": "စစ်ကိုင်း",
+        "department": "အထက(၁)စစ်ကိုင်း",
+        "alphabet": "စစက",
+        "file": "sgg/SGG-001.pdf"
+      },
+      {
+        "name": "စစ်ကိုင်း",
+        "department": "အထက(၃)စစ်ကိုင်း",
+        "alphabet": "စစက",
+        "file": "sgg/SGG-002.pdf"
+      },
+      {
+        "name": "စစ်ကိုင်း",
+        "department": "အထက(၂)စစ်ကိုင်း",
+        "alphabet": "စစက",
+        "file": "sgg/SGG-003.pdf"
+      },
+      {
+        "name": "စစ်ကိုင်း",
+        "department": "အထက၊ရွှေမင်းဝံ(စစ်ကိုင်း)",
+        "alphabet": "စစက",
+        "file": "sgg/SGG-004.pdf"
+      },
+      {
+        "name": "ကလေး",
+        "department": "အထက(၁)ကလေး",
+        "alphabet": "စကလ",
+        "file": "sgg/SGG-005.pdf"
+      },
+      {
+        "name": "ကလေး",
+        "department": "အထက(၃)ကလေး",
+        "alphabet": "စကလ",
+        "file": "sgg/SGG-006.pdf"
+      },
+      {
+        "name": "ကလေး",
+        "department": "အထက(၆)ကလေး",
+        "alphabet": "စကလ",
+        "file": "sgg/SGG-007.pdf"
+      },
+      {
+        "name": "ကလေး",
+        "department": "အထက၊အင်ဒိုင်းကြီး(ကလေး)",
+        "alphabet": "စကလ",
+        "file": "sgg/SGG-008.pdf"
+      },
+      {
+        "name": "ကလေး",
+        "department": "အထက၊မင်းကင်း",
+        "alphabet": "စမက",
+        "file": "sgg/SGG-009.pdf"
+      },
+      {
+        "name": "ကလေး",
+        "department": "အထက၊ပန်းဆက်(မင်းကင်း)",
+        "alphabet": "စမက",
+        "file": "sgg/SGG-010.pdf"
+      },
+      {
+        "name": "ကလေး",
+        "department": "အထက၊ကလေးဝ",
+        "alphabet": "စကဝ",
+        "file": "sgg/SGG-011.pdf"
+      },
+      {
+        "name": "တမူး",
+        "department": "အထက(၁)တမူး",
+        "alphabet": "စတမ",
+        "file": "sgg/SGG-012.pdf"
+      },
+      {
+        "name": "ရွှေဘို",
+        "department": "အထက(၂)ရွှေဘို",
+        "alphabet": "စရဘ",
+        "file": "sgg/SGG-013.pdf"
+      },
+      {
+        "name": "ကန့်ဘလူ",
+        "department": "အထက(၁)ကန့်ဘလူ",
+        "alphabet": "စကဘ",
+        "file": "sgg/SGG-014.pdf"
+      },
+      {
+        "name": "ကန့်ဘလူ",
+        "department": "အထက၊ထန်းကုန်း(ကန့်ဘလူ)",
+        "alphabet": "စကဘ",
+        "file": "sgg/SGG-015.pdf"
+      },
+      {
+        "name": "ကန့်ဘလူ",
+        "department": "အထက၊ကျွန်းလှ",
+        "alphabet": "စလမ",
+        "file": "sgg/SGG-016.pdf"
+      },
+      {
+        "name": "ရေဦး",
+        "department": "အထက(၁)ရေဦး",
+        "alphabet": "စရဥ",
+        "file": "sgg/SGG-017.pdf"
+      },
+      {
+        "name": "မုံရွာ",
+        "department": "အထက(၂)မုံရွာ",
+        "alphabet": "စမရ",
+        "file": "sgg/SGG-018.pdf"
+      },
+      {
+        "name": "မုံရွာ",
+        "department": "အထက(၃)မုံရွာ",
+        "alphabet": "စမရ",
+        "file": "sgg/SGG-019.pdf"
+      },
+      {
+        "name": "မုံရွာ",
+        "department": "အထက(၂)အလုံ(မုံရွာ)",
+        "alphabet": "စမရ",
+        "file": "sgg/SGG-020.pdf"
+      },
+      {
+        "name": "မုံရွာ",
+        "department": "အထက၊အရာတော်",
+        "alphabet": "စအရ",
+        "file": "sgg/SGG-021.pdf"
+      },
+      {
+        "name": "ကသာ",
+        "department": "အထက(၁)ကသာ",
+        "alphabet": "စကသ",
+        "file": "sgg/SGG-022.pdf"
+      },
+      {
+        "name": "ကသာ",
+        "department": "အထက၊ဗန်းမောက်",
+        "alphabet": "စဗမ",
+        "file": "sgg/SGG-023.pdf"
+      },
+      {
+        "name": "ကောလင်း",
+        "department": "အထက၊ဝန်းသို",
+        "alphabet": "စဝသ",
+        "file": "sgg/SGG-024.pdf"
+      },
+      {
+        "name": "မော်လိုက်",
+        "department": "အထက၊မော်လိုက်",
+        "alphabet": "စမလ",
+        "file": "sgg/SGG-025.pdf"
+      },
+      {
+        "name": "မော်လိုက်",
+        "department": "အထက၊ကင်းတပ်(မော်လိုက်)",
+        "alphabet": "စမလ",
+        "file": "sgg/SGG-026.pdf"
+      },
+      {
+        "name": "မော်လိုက်",
+        "department": "အထက၊ဖောင်းပြင်",
+        "alphabet": "စဖပ",
+        "file": "sgg/SGG-027.pdf"
+      },
+      {
+        "name": "ခန္တီး",
+        "department": "အထက၊ခန္တီး",
+        "alphabet": "စခတ",
+        "file": "sgg/SGG-028.pdf"
+      },
+      {
+        "name": "ဟုမ္မလင်း",
+        "department": "အထက(၁)ဟုမ္မလင်း",
+        "alphabet": "စဟမ",
+        "file": "sgg/SGG-029.pdf"
+      },
+      {
+        "name": "ဟုမ္မလင်း",
+        "department": "အထက(၂)ဟုမ္မလင်း",
+        "alphabet": "စဟမ",
+        "file": "sgg/SGG-030.pdf"
+      },
+      {
+        "name": "ဟုမ္မလင်း",
+        "department": "အထက၊ကက်သာ(ဟုမ္မလင်း)",
+        "alphabet": "စဟမ",
+        "file": "sgg/SGG-031.pdf"
+      },
+      {
+        "name": "ဟုမ္မလင်း",
+        "department": "အထက၊မောင်းခမ်း(ဟုမ္မလင်း)",
+        "alphabet": "စဟမ",
+        "file": "sgg/SGG-032.pdf"
+      },
+      {
+        "name": "ဟုမ္မလင်း",
+        "department": "အထက၊ထမံသီ(ဟုမ္မလင်း)",
+        "alphabet": "စဟမ",
+        "file": "sgg/SGG-033.pdf"
+      },
+      {
+        "name": "ဟုမ္မလင်း",
+        "department": "အထက၊နမ့်တော(ဟုမ္မလင်း)",
+        "alphabet": "စဟမ",
+        "file": "sgg/SGG-034.pdf"
+      },
+      {
+        "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊လေရှီး",
+        "alphabet": "စလရ",
+        "file": "sgg/SGG-035.pdf"
+      },
+      {
+        "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ဆွမ္မရာ(လေရှီး)",
+        "alphabet": "စလရ",
+        "file": "sgg/SGG-036.pdf"
+      },
+      {
+        "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ပန်ဆပ်(လေရှီး)",
+        "alphabet": "စလရ",
+        "file": "sgg/SGG-037.pdf"
+      },
+      {
+        "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊လဟယ်(စက်၊စိုက်၊မွေး)",
+        "alphabet": "စလဟ",
+        "file": "sgg/SGG-038.pdf"
+      },
+      {
+        "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊နန်းယွန်း(စက်၊စိုက်၊မွေး)",
+        "alphabet": "စနယ",
+        "file": "sgg/SGG-039.pdf"
+      },
+      {
+        "name": "နာဂကိုယ်ပိုင်အုပ်ချုပ်ခွင့်ရဒေသ",
+        "department": "အထက၊ပန်ဆောင်(နန်းယွန်း)",
+        "alphabet": "စနယ",
+        "file": "sgg/SGG-040.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ဧရာဝတီတိုင်းဒေသကြီး",
+    "districts": [
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက(၁)ပုသိမ်",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-001.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက(၂)ပုသိမ်",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-002.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက(၅)ပုသိမ်",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-003.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက(၆)ပုသိမ်",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-004.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊မြင်းကကွင်း(ပုသိမ်)",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-005.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊သလပ်ခွာ(ပုသိမ်)",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-006.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ချောင်းသာ(ပုသိမ်)",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-007.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ငွေဆောင်(ပုသိမ်)",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-008.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက(၇)ပုသိမ်",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-009.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ရွှေမြင်တင်(ပုသိမ်)",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-010.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ရွှေသောင်ယံ(ပုသိမ်)",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-011.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ရှောပြာ(ပုသိမ်)",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-012.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက(၈)ပုသိမ်",
+        "alphabet": "အပသ",
+        "file": "ayy/AYY-013.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ငပုတော",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-014.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကမ်းနီ(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-015.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကျောက်ချောင်း(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-016.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကျုံကူး(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-017.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကံချိုင်(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-018.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ငရုတ်ကောင်း(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-019.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ဆင်ကူးကြီး(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-020.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ပြင်ခရိုင်(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-021.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊တောင်ကလေး(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-022.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊မန်ကျည်းပင်(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-023.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကျောက်ကလပ်(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-024.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊သင်္ကန်းကုန်း(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-025.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ဟိုင်းကြီး(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-026.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊အုန်းချောင်း(ငပုတော)",
+        "alphabet": "အငပ",
+        "file": "ayy/AYY-027.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊သာပေါင်း",
+        "alphabet": "အသပ",
+        "file": "ayy/AYY-028.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ဘုရားကုန်း(သာပေါင်း)",
+        "alphabet": "အသပ",
+        "file": "ayy/AYY-029.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊စက်ဒေါင့်ကြီး(သာပေါင်း)",
+        "alphabet": "အသပ",
+        "file": "ayy/AYY-030.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ဇီးဖြူကွင်း(သာပေါင်း)",
+        "alphabet": "အသပ",
+        "file": "ayy/AYY-031.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊လှေကြီးတက်(သာပေါင်း)",
+        "alphabet": "အသပ",
+        "file": "ayy/AYY-032.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက(ခွဲ)ဆောင်ဘုံ(သာပေါင်း)",
+        "alphabet": "အသပ",
+        "file": "ayy/AYY-033.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကန်ကြီးထောင့်(စက်၊စိုက်၊မွေး)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-034.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကုလားကွင်း(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-035.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ဆပ်ကွင်း(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-036.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊တကုန်းကြီး(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-037.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ဒါးက(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-038.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊မြင်းကဆိပ်(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-039.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကံရွာ(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-040.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ကျိုက်လတ်(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-041.pdf"
+      },
+      {
+        "name": "ပုသိမ်",
+        "department": "အထက၊ဝဲကြီး(ကန်ကြီးထောင့်)",
+        "alphabet": "အကထ",
+        "file": "ayy/AYY-042.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက(၁)ကျုံပျော်",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-043.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက(၂)ကျုံပျော်(စက်၊စိုက်၊မွေး)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-044.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊သောင်ကြီး(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-045.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ရေစခန်း(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-046.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊လှည်းဆိပ်(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-047.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊အထောင်(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-048.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ဒိုက်ပျက်(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-049.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊မိုးကြိုးပစ်(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-050.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ရေတွင်းရိုး(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-051.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊အင်းရဲ(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-052.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊တောက်တဲ့ရိုး(ကျုံပျော်)",
+        "alphabet": "အကပ",
+        "file": "ayy/AYY-053.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက(၁)ကျောင်းကုန်း",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-054.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက(၂)ကျောင်းကုန်း",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-055.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ချောင်ကြီး(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-056.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ဂုန်မင်း(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-057.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊အစုကြီး(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-058.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊တံခွန်တိုင်(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-059.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ဒေါင့်ကြီး(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-060.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ပေါက်ဆိန်ပဲ့(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-061.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ဝက်ခြံဂရက်(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-062.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊လှည်းဆိပ်(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-063.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက(ခွဲ)အောက်ပိုင်း(ကျောင်းကုန်း)",
+        "alphabet": "အကက",
+        "file": "ayy/AYY-064.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ရေကြည်",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-065.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ကွင်းသုံးဆင့်(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-066.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ဇရပ်လှ(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-067.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ငါးသိုင်းချောင်း(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-068.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ကမ်းနီ(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-069.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ငပိဆိပ်(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-070.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ကုန်းပြင်(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-071.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊ယိုးဒယားတက်(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-072.pdf"
+      },
+      {
+        "name": "ကျုံပျော်",
+        "department": "အထက၊အသုတ်(ရေကြည်)",
+        "alphabet": "အရက",
+        "file": "ayy/AYY-073.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက(၁)မအူပင်",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-074.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက(၂)မအူပင်",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-075.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ကျောင်းရွာ(မအူပင်)",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-076.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊လေးအိမ်စု(မအူပင်)",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-077.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ရွှေတောင်မှော်(မအူပင်)",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-078.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊မလက်တို(မအူပင်)",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-079.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ရေလဲကလေး(မအူပင်)",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-080.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊လယ်ကိုင်း(မအူပင်)",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-081.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ကျုံနတ္တော်(မအူပင်)",
+        "alphabet": "အမပ",
+        "file": "ayy/AYY-082.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက(၁)ညောင်တုန်း",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-083.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက(၂)ညောင်တုန်း",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-084.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊စက္ကော့(စက်၊စိုက်၊မွေး)(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-085.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ငှက်ပျောကျွန်း(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-086.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ချောင်းကြီး(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-087.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ပါလှဲ့အောက်စု(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-088.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ကြက်တူရွေးတောင်(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-089.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊နတ်ပေး(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-090.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊သပြေချောင်း(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-091.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊မဲဇလီဒလ(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-092.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ဆားမလောက်(ညောင်တုန်း)",
+        "alphabet": "အညတ",
+        "file": "ayy/AYY-093.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက(၁)ပန်းတနော်",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-094.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက(၂)ပန်းတနော်",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-095.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ဇရပ်လှကြီး(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-096.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ကျွန်းကြား(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-097.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ပြလင်းမိမ္မပြေး(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-098.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ချောင်းကလေး(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-099.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊မရမ်း(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-100.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ရွှေလှေ(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-101.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊အင်းမ(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-102.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ဒေါင့်ကြီး(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-103.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊မအူချောင်း(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-104.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ဓနော်(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-105.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ရင်းတိုက်ကုန်း(ပန်းတနော်)",
+        "alphabet": "အတန",
+        "file": "ayy/AYY-106.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက(၁)ဓနုဖြူ",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-107.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊စံကင်း(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-108.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ဆကာကြီး(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-109.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ကျုံတနီး(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-110.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊နှဲကြိုး(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-111.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ရေလဲ(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-112.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊အလမျိုး(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-113.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊တော်ဝ(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-114.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ပြင်ကသာ(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-115.pdf"
+      },
+      {
+        "name": "မအူပင်",
+        "department": "အထက၊ရုံးချောင်း(ဓနုဖြူ)",
+        "alphabet": "အဓန",
+        "file": "ayy/AYY-116.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက(၁)လပွတ္တာ",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-117.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက(၂)လပွတ္တာ",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-118.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ကန်ဘက်(လပွတ္တာ)",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-119.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ကြာကန်(လပွတ္တာ)",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-120.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ပိုးလောင်း(လပွတ္တာ)",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-121.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ဘီတွတ်(လပွတ္တာ)",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-122.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက(၃)မိုင်(မြို့သစ်)(လပွတ္တာ)",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-123.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ပြင်စလူ(လပွတ္တာ)",
+        "alphabet": "အလပ",
+        "file": "ayy/AYY-124.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက(၁)မော်လမြိုင်ကျွန်း",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-125.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက(၂)မော်လမြိုင်ကျွန်း",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-126.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ကြောင်ထောက်(မော်လမြိုင်ကျွန်း)",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-127.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ပျားမွတ်လျှော်ချောင်း(မော်လမြိုင်ကျွန်း)",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-128.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ကျော်ဇံ(မော်လမြိုင်ကျွန်း)",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-129.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊အောက်မအူတုံး(မော်လမြိုင်ကျွန်း)",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-130.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊ကျိုက်ပိ(မော်လမြိုင်ကျွန်း)",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-131.pdf"
+      },
+      {
+        "name": "လပွတ္တာ",
+        "department": "အထက၊လှိုင်းဘုန်း(မော်လမြိုင်ကျွန်း)",
+        "alphabet": "အမက",
+        "file": "ayy/AYY-132.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၁)ဖျာပုံ(ပင်မဆောင်)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-133.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၂)ဖျာပုံ(ပင်မဆောင်)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-134.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၃)ဖျာပုံ",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-135.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ကျုံကျိုက်(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-136.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ဒေါ်ငြိမ်း(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-137.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊အမာ(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-138.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊သမိန်ထော(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-139.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ကျုံကဒွန်း(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-140.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ကျုံတာ(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-141.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ကနိ(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-142.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊နောက်မီး(ဖျာပုံ)",
+        "alphabet": "အဖပ",
+        "file": "ayy/AYY-143.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၁)ဒေးဒရဲ(စက်၊စိုက်၊မွေး)",
+        "alphabet": "အဒရ",
+        "file": "ayy/AYY-144.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊တော်ကမယ်(ဒေးဒရဲ)",
+        "alphabet": "အဒရ",
+        "file": "ayy/AYY-145.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ကျုံဒါး(ဒေးဒရဲ)",
+        "alphabet": "အဒရ",
+        "file": "ayy/AYY-146.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊နောက်ပြန်ဒိုး(ဒေးဒရဲ)",
+        "alphabet": "အဒရ",
+        "file": "ayy/AYY-147.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၁)ဘိုကလေး",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-148.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၂)ဘိုကလေး",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-149.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊မြင်းကကုန်း(ဘိုကလေး)",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-150.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊စက်ဆန်း(ဘိုကလေး)",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-151.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ဟေမန်(ဘိုကလေး)",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-152.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊အောက်လှည်းဆိပ်(ဘိုကလေး)",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-153.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ရုပ်ဆိုင်(ဘိုကလေး)",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-154.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ပေချောင်းကြီး(ဘိုကလေး)",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-155.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ကဒုံကနိ(ဘိုကလေး)",
+        "alphabet": "အဘလ",
+        "file": "ayy/AYY-156.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၁)ကျိုက်လတ်",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-157.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက(၂)ကျိုက်လတ်",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-158.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ပေချောင်(ကျိုက်လတ်)",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-159.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊သဗြုဆိပ်ညောင်ချောင်း(ကျိုက်လတ်)",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-160.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊လှိုင်းတာ(ကျိုက်လတ်)",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-161.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ရုံးဒေါင့်(ကျိုက်လတ်)",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-162.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊အိမ်ယာကြီး(ကျိုက်လတ်)",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-163.pdf"
+      },
+      {
+        "name": "ဖျာပုံ",
+        "department": "အထက၊ထရော်ရွာသစ်(ကျိုက်လတ်)",
+        "alphabet": "အကလ",
+        "file": "ayy/AYY-164.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၁)မြောင်းမြ",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-165.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၃)မြောင်းမြ",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-166.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၆)မြောင်းမြ",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-167.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၂)ရေတွင်းရေကန်(မြောင်းမြ)",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-168.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ပြင်ရွာ(မြောင်းမြ)",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-169.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊စကမြား(မြောင်းမြ)",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-170.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ရေကျော်(မြောင်းမြ)",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-171.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ငါးမြင်းချောင်း(တူး)(မြောင်းမြ)",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-172.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၇)ကွယ်လွယ်(မြောင်းမြ)",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-173.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊သိလ္လာ(မြောင်းမြ)",
+        "alphabet": "အမမ",
+        "file": "ayy/AYY-174.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၁)ဝါးခယ်မ",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-175.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၂)ဝါးခယ်မ",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-176.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကြီးနီစု(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-177.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကျွန်းကုန်း(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-178.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ဝဲကြီး(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-179.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ငှက်ပျောချောင်း(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-180.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ဆူးတွင်း(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-181.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ညောင်ငူ(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-182.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကျုံမငေး(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-183.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ရွှေလောင်း(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-184.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကျုံတိုင်(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-185.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊အထက်ပေကုန်း(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-186.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊မောင်းဒီး(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-187.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကနစိုးကုန်း(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-188.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ပိတ္တာလေး(ဝါးခယ်မ)",
+        "alphabet": "အဝမ",
+        "file": "ayy/AYY-189.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၁)အိမ်မဲ",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-190.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက(၂)အိမ်မဲ",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-191.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊လူကောင်းကျွန်း(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-192.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊တကူဆိပ်(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-193.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ဘုရားကြီးကုန်း(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-194.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ရွာသစ်(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-195.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကြို့ကုန်း(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-196.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ဝါးတလုပ်ကမ်းနီ(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-197.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကျုံတလုတ်(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-198.pdf"
+      },
+      {
+        "name": "မြောင်းမြ",
+        "department": "အထက၊ကြခတ်ကွေ့(အိမ်မဲ)",
+        "alphabet": "အအမ",
+        "file": "ayy/AYY-199.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက(၁)ဟင်္သာတ",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-200.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက(၂)ဟင်္သာတ",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-201.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက(၃)ဟင်္သာတ",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-202.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက(၄)ဟင်္သာတ",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-203.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ရှားခဲ(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-204.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊တလုတ္ထော်(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-205.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ဒူးယား(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-206.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ဓမ္ဘီ(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-207.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊နိဗ္ဗာန်(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-208.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊နတ်မော်(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-209.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ယုန်သလင်း(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-210.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ကြက်တူရွေး(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-211.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ရွာသစ်တောင်(ဟင်္သာတ)",
+        "alphabet": "အဟတ",
+        "file": "ayy/AYY-212.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက(၁)ဇလွန်",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-213.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ကော့ကပ်ကြီး(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-214.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ကျုံရှစာဖြူစု(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-215.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ရေလဲ(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-216.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ဂုံညင်းတန်း(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-217.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ဒေါင့်ကြီး(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-218.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ပျဉ်းမကုန်း(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-219.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ရွှေကျောင်း(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-220.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊မေရီလန်း(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-221.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊မြစ်ဝ(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-222.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊သပြုကွင်း(ဇလွန်)",
+        "alphabet": "အဇလ",
+        "file": "ayy/AYY-223.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊လေးမျက်နှာ",
+        "alphabet": "အလန",
+        "file": "ayy/AYY-224.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊ခမောက်စု(လေးမျက်နှာ)",
+        "alphabet": "အလန",
+        "file": "ayy/AYY-225.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊အိုင်သပြု(လေးမျက်နှာ)",
+        "alphabet": "အလန",
+        "file": "ayy/AYY-226.pdf"
+      },
+      {
+        "name": "ဟင်္သာတ",
+        "department": "အထက၊မဲဇလီ(လေးမျက်နှာ)",
+        "alphabet": "အလန",
+        "file": "ayy/AYY-227.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက(၁)မြန်အောင်",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-228.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊သပြေကုန်း(မြန်အောင်)",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-229.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊တာခွ(မြန်အောင်)",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-230.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ကနောင်(မြန်အောင်)",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-231.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊အင်ပင်(မြန်အောင်)",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-232.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ဇလုပ်မ(မြန်အောင်)",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-233.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊လက်ပံကွင်း(မြန်အောင်)",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-234.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ရွှေကျင်(မြန်အောင်)",
+        "alphabet": "အမအ",
+        "file": "ayy/AYY-235.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက(၁)ကြံခင်း",
+        "alphabet": "အကခ",
+        "file": "ayy/AYY-236.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ရေနံတောင်(ကြံခင်း)",
+        "alphabet": "အကခ",
+        "file": "ayy/AYY-237.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊မျောက်ချောကုန်း(ကြံခင်း)",
+        "alphabet": "အကခ",
+        "file": "ayy/AYY-238.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ဘက်ရဲ(ကြံခင်း)",
+        "alphabet": "အကခ",
+        "file": "ayy/AYY-239.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ဆိပ်သာ(ကြံခင်း)",
+        "alphabet": "အကခ",
+        "file": "ayy/AYY-240.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊အင်္ဂပူ",
+        "alphabet": "အဂပ",
+        "file": "ayy/AYY-241.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ကွင်းကောက်(အင်္ဂပူ)",
+        "alphabet": "အဂပ",
+        "file": "ayy/AYY-242.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊သုံးကွင်းဆိုင်(အင်္ဂပူ)",
+        "alphabet": "အဂပ",
+        "file": "ayy/AYY-243.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊မဲဇလီကုန်း(အင်္ဂပူ)",
+        "alphabet": "အဂပ",
+        "file": "ayy/AYY-244.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ညောင်ကျိုး(အင်္ဂပူ)",
+        "alphabet": "အဂပ",
+        "file": "ayy/AYY-245.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ထူးကြီး(အင်္ဂပူ)",
+        "alphabet": "အဂပ",
+        "file": "ayy/AYY-246.pdf"
+      },
+      {
+        "name": "မြန်အောင်",
+        "department": "အထက၊ထန်းပင်ကုန်း(အင်္ဂပူ)",
+        "alphabet": "အဂပ",
+        "file": "ayy/AYY-247.pdf"
+      }
+    ]
+  },
+  {
+    "region": "နေပြည်တော်",
+    "districts": [
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊တောင်ညို (ဥတ္တရသီရိ)",
+        "alphabet": "နဥတ",
+        "file": "npw/NPW-001.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊သရက်တော(ဥတ္တရသီရိ)",
+        "alphabet": "နဥတ",
+        "file": "npw/NPW-002.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊မိုးစွေ(ဥတ္တရသီရိ)",
+        "alphabet": "နဥတ",
+        "file": "npw/NPW-003.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊ငန်းစပ် (ဥတ္တရသီရိ)",
+        "alphabet": "နဥတ",
+        "file": "npw/NPW-004.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက(၁၂)နေပြည်တော် (ဥတ္တရသီရိ)",
+        "alphabet": "နဥတ",
+        "file": "npw/NPW-005.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက(ခွဲ)ရွှေနံ့သာ(ဥတ္တရသီရိ)",
+        "alphabet": "နဥတ",
+        "file": "npw/NPW-006.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊မင်းကုန်း (ဥတ္တရသီရိ)",
+        "alphabet": "နဥတ",
+        "file": "npw/NPW-007.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက(၁)တပ်ကုန်း",
+        "alphabet": "နတက",
+        "file": "npw/NPW-008.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက(၂)တပ်ကုန်း",
+        "alphabet": "နတက",
+        "file": "npw/NPW-009.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊ရွှေမြို့(တပ်ကုန်း)",
+        "alphabet": "နတက",
+        "file": "npw/NPW-010.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊ညောင်လွန့်(တပ်ကုန်း)",
+        "alphabet": "နတက",
+        "file": "npw/NPW-011.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊MRTV(တပ်ကုန်း)",
+        "alphabet": "နတက",
+        "file": "npw/NPW-012.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊ကပစ(၁)(တပ်ကုန်း)",
+        "alphabet": "နတက",
+        "file": "npw/NPW-013.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊တောင်ပို့သာ(တပ်ကုန်း)",
+        "alphabet": "နတက",
+        "file": "npw/NPW-014.pdf"
+      },
+      {
+        "name": "ဥတ္တရ",
+        "department": "အထက၊မကျီးပင်(တပ်ကုန်း)",
+        "alphabet": "နတက",
+        "file": "npw/NPW-015.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက(၁)နေပြည်တော် (ဇေယျာသီရိ)",
+        "alphabet": "နဇယ",
+        "file": "npw/NPW-016.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက(၁)နေပြည်တော် (ဇေယျာသီရိ)",
+        "alphabet": "နဇယ",
+        "file": "npw/NPW-016.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက(၁၆)နေပြည်တော် (ဇေယျာသီရိ)",
+        "alphabet": "နဇယ",
+        "file": "npw/NPW-017.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက၊ရေဆင်း (ဇေယျာသီရိ)",
+        "alphabet": "နဇယ",
+        "file": "npw/NPW-018.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက၊ပြည်စံအောင် (ဇေယျာသီရိ)",
+        "alphabet": "နဇယ",
+        "file": "npw/NPW-019.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက၊ကျောက်ချက် (ဇေယျာသီရိ)",
+        "alphabet": "နဇယ",
+        "file": "npw/NPW-020.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက(၃)နေပြည်တော် (ပုဗ္ဗသီရိ)",
+        "alphabet": "နပဗ",
+        "file": "npw/NPW-021.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက၊ကျည်တောင်ကန် (ပုဗ္ဗသီရိ)",
+        "alphabet": "နပဗ",
+        "file": "npw/NPW-022.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက(၁၃)နေပြည်တော် (ပုဗ္ဗသီရိ)",
+        "alphabet": "နပဗ",
+        "file": "npw/NPW-023.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက(၂ဝ)နေပြည်တော် (ပုဗ္ဗသီရိ)",
+        "alphabet": "နပဗ",
+        "file": "npw/NPW-024.pdf"
+      },
+      {
+        "name": "ဇေယျာသီရိ",
+        "department": "အထက၊အောင်သုခ (ပုဗ္ဗသီရိ)",
+        "alphabet": "နပဗ",
+        "file": "npw/NPW-025.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၁)ပျဉ်းမနား (ပျဉ်းမနား)",
+        "alphabet": "နပန",
+        "file": "npw/NPW-026.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၂)ပျဉ်းမနား (ပျဉ်းမနား)",
+        "alphabet": "နပန",
+        "file": "npw/NPW-027.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၃)ပျဉ်းမနား (ပျဉ်းမနား)",
+        "alphabet": "နပန",
+        "file": "npw/NPW-028.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၅)ပျဉ်းမနား (ပျဉ်းမနား)",
+        "alphabet": "နပန",
+        "file": "npw/NPW-029.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက၊သစ်လေးလုံး (ပျဉ်းမနား)",
+        "alphabet": "နပန",
+        "file": "npw/NPW-030.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၆)နေပြည်တော် (ဇမ္ဗူသီရိ)",
+        "alphabet": "နဇမ",
+        "file": "npw/NPW-031.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၇)နေပြည်တော် (ဇမ္ဗူသီရိ)",
+        "alphabet": "နဇမ",
+        "file": "npw/NPW-032.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၂၂)နေပြည်တော် (ဇမ္ဗူသီရိ)",
+        "alphabet": "နဇမ",
+        "file": "npw/NPW-033.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "အထက(၁၄)နေပြည်တော် (ဇမ္ဗူသီရိ)",
+        "alphabet": "နဇမ",
+        "file": "npw/NPW-034.pdf"
+      },
+      {
+        "name": "ပျဉ်းမနား",
+        "department": "ထ(ခွဲ)လ(၃)နေပြည်တော် (ဇမ္ဗူသီရိ)",
+        "alphabet": "နဇမ",
+        "file": "npw/NPW-035.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက(၁)လယ်ဝေး (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-036.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက(၂)လယ်ဝေး (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-037.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊သဲကောကြီး (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-038.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊ကံသာ (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-039.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊ကန်လှ(လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-040.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊သာဝတ္ထိ (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-041.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊ပျံချီ(လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-042.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊သပြေပင် (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-043.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊ဝက္ကမူ  (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-044.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊သစ်ပုတ်ပင် (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-045.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက၊အေလာ (လယ်ဝေး)",
+        "alphabet": "နလဝ",
+        "file": "npw/NPW-046.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက(၁၈)နေပြည်တော် (ဒက္ခိဏသီရိ)",
+        "alphabet": "နဒက",
+        "file": "npw/NPW-047.pdf"
+      },
+      {
+        "name": "လယ်ဝေး",
+        "department": "အထက(၁၉)နေပြည်တော် (ဒက္ခိဏသီရိ)",
+        "alphabet": "နဒက",
+        "file": "npw/NPW-048.pdf"
+      }
+    ]
+  },
+  {
+    "region": "မန္တလေးတိုင်းဒေသကြီး",
+    "districts": [
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၁၃)မန္တလေး(မဟာအောင်မြေ)",
+        "alphabet": "မနအ",
+        "file": "mdy/MDY-001.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၂၄)မန္တလေး(မဟာအောင်မြေ)",
+        "alphabet": "မနအ",
+        "file": "mdy/MDY-002.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(ခွဲ)လ(၂)မန္တလေး(မဟာအောင်မြေ)",
+        "alphabet": "မနအ",
+        "file": "mdy/MDY-003.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(ခွဲ)လ(၈)မန္တလေး(မဟာအောင်မြေ)",
+        "alphabet": "မနအ",
+        "file": "mdy/MDY-004.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(ခွဲ)လ(၁၂)မန္တလေး(မဟာအောင်မြေ)",
+        "alphabet": "မနအ",
+        "file": "mdy/MDY-005.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၁၂)မန္တလေး(ချမ်းအေးသာစံ)",
+        "alphabet": "မနတ",
+        "file": "mdy/MDY-006.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၁၄)မန္တလေး(ချမ်းအေးသာစံ)",
+        "alphabet": "မနတ",
+        "file": "mdy/MDY-007.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၁၆)မန္တလေး(ချမ်းအေးသာစံ)",
+        "alphabet": "မနတ",
+        "file": "mdy/MDY-008.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၅)မန္တလေး(ချမ်းအေးသာစံ)",
+        "alphabet": "မနတ",
+        "file": "mdy/MDY-009.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၇)မန္တလေး(ချမ်းမြသာစည်)",
+        "alphabet": "မနသ",
+        "file": "mdy/MDY-010.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(ခွဲ)လ(၁၃)မန္တလေး(ချမ်းမြသာစည်)",
+        "alphabet": "မနသ",
+        "file": "mdy/MDY-011.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(ခွဲ)လ(၃)မန္တလေး(ချမ်းမြသာစည်)",
+        "alphabet": "မနသ",
+        "file": "mdy/MDY-012.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၃၀)မန္တလေး(ချမ်းမြသာစည်)",
+        "alphabet": "မနသ",
+        "file": "mdy/MDY-013.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၃၄)မန္တလေး(ချမ်းမြသာစည်)",
+        "alphabet": "မနသ",
+        "file": "mdy/MDY-014.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၂၈)မန္တလေး(ချမ်းမြသာစည်)",
+        "alphabet": "မနသ",
+        "file": "mdy/MDY-015.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၂၇)မန္တလေး(ပြည်ကြီးတံခွန်)",
+        "alphabet": "မနခ",
+        "file": "mdy/MDY-016.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၂၉)မန္တလေး(ပြည်ကြီးတံခွန်)",
+        "alphabet": "မနခ",
+        "file": "mdy/MDY-017.pdf"
+      },
+      {
+        "name": "မဟာအောင်မြေ",
+        "department": "အထက(၃၂)မန္တလေး(ပြည်ကြီးတံခွန်)",
+        "alphabet": "မနခ",
+        "file": "mdy/MDY-018.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၁)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-019.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၄)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-020.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၈)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-021.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၉)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-022.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၁၀)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-023.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၁၁)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-024.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၁၇)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-025.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "ဗဟိုအကျဉ်းထောင်(မန္တလေးမြို့)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-026.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၂၀)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-027.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၃၇)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-028.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက(၂၅)မန္တလေး(အောင်မြေသာစံ)",
+        "alphabet": "မနမ",
+        "file": "mdy/MDY-029.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက၊ပုသိမ်ကြီး",
+        "alphabet": "မပသ",
+        "file": "mdy/MDY-030.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက၊အုန်းချော(ပုသိမ်ကြီး)",
+        "alphabet": "မပသ",
+        "file": "mdy/MDY-031.pdf"
+      },
+      {
+        "name": "အောင်မြေသာစံ",
+        "department": "အထက၊မတ္တရာ",
+        "alphabet": "မတရ",
+        "file": "mdy/MDY-032.pdf"
+      },
+      {
+        "name": "အမရပူရ",
+        "department": "အထက(၁)အမရပူရ",
+        "alphabet": "မအရ",
+        "file": "mdy/MDY-033.pdf"
+      },
+      {
+        "name": "အမရပူရ",
+        "department": "အထက၊ယန္တရား(အမရပူရ)",
+        "alphabet": "မအရ",
+        "file": "mdy/MDY-034.pdf"
+      },
+      {
+        "name": "ပြင်ဦးလွင်",
+        "department": "အထက(၁)ပြင်ဦးလွင်",
+        "alphabet": "မပလ",
+        "file": "mdy/MDY-035.pdf"
+      },
+      {
+        "name": "ပြင်ဦးလွင်",
+        "department": "အထက(၁)ပြင်ဦးလွင်(တိုးချဲ့)",
+        "alphabet": "မပလ",
+        "file": "mdy/MDY-036.pdf"
+      },
+      {
+        "name": "ပြင်ဦးလွင်",
+        "department": "အထက(၂)ပြင်ဦးလွင်",
+        "alphabet": "မပလ",
+        "file": "mdy/MDY-037.pdf"
+      },
+      {
+        "name": "ပြင်ဦးလွင်",
+        "department": "အထက(၃)ပြင်ဦးလွင်",
+        "alphabet": "မပလ",
+        "file": "mdy/MDY-038.pdf"
+      },
+      {
+        "name": "ပြင်ဦးလွင်",
+        "department": "အထက(၄)ပြင်ဦးလွင်",
+        "alphabet": "မပလ",
+        "file": "mdy/MDY-039.pdf"
+      },
+      {
+        "name": "ပြင်ဦးလွင်",
+        "department": "အထက(၅)ပြင်ဦးလွင်",
+        "alphabet": "မပလ",
+        "file": "mdy/MDY-040.pdf"
+      },
+      {
+        "name": "ပြင်ဦးလွင်",
+        "department": "အထက(ခွဲ)လ(၁)ပြင်ဦးလွင်",
+        "alphabet": "မပလ",
+        "file": "mdy/MDY-041.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက(၁)ကျောက်ဆည်",
+        "alphabet": "မကဆ",
+        "file": "mdy/MDY-042.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက(၂)ကျောက်ဆည်",
+        "alphabet": "မကဆ",
+        "file": "mdy/MDY-043.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက(၃)ကျောက်ဆည်",
+        "alphabet": "မကဆ",
+        "file": "mdy/MDY-044.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊မင်းစု(ကျောက်ဆည်)",
+        "alphabet": "မကဆ",
+        "file": "mdy/MDY-045.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊သံရွာ(ကျောက်ဆည်)",
+        "alphabet": "မကဆ",
+        "file": "mdy/MDY-046.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊စဉ့်ကိုင်",
+        "alphabet": "မစမ",
+        "file": "mdy/MDY-047.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊ဘယ်လင်း(စဉ့်ကိုင်)",
+        "alphabet": "မစမ",
+        "file": "mdy/MDY-048.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊ပလိပ်(စဉ့်ကိုင်)",
+        "alphabet": "မစမ",
+        "file": "mdy/MDY-049.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊မြစ်သား(စက်၊စိုက်၊မွေး)",
+        "alphabet": "မမသ",
+        "file": "mdy/MDY-050.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊ကူမဲ(မြစ်သား)",
+        "alphabet": "မမသ",
+        "file": "mdy/MDY-051.pdf"
+      },
+      {
+        "name": "ကျောက်ဆည်",
+        "department": "အထက၊ရွာခိုင်ကြီး(မြစ်သား)",
+        "alphabet": "မမသ",
+        "file": "mdy/MDY-052.pdf"
+      },
+      {
+        "name": "တံတားဦး",
+        "department": "အထက၊တံတားဦး",
+        "alphabet": "မတဥ",
+        "file": "mdy/MDY-053.pdf"
+      },
+      {
+        "name": "တံတားဦး",
+        "department": "အထက၊ချောင်းခွ(တံတားဦး)",
+        "alphabet": "မတဥ",
+        "file": "mdy/MDY-054.pdf"
+      },
+      {
+        "name": "တံတားဦး",
+        "department": "အထက၊ငါန်းဇွန်",
+        "alphabet": "မငဇ",
+        "file": "mdy/MDY-055.pdf"
+      },
+      {
+        "name": "မြင်းခြံ",
+        "department": "အထက(၁)မြင်းခြံ",
+        "alphabet": "မမခ",
+        "file": "mdy/MDY-056.pdf"
+      },
+      {
+        "name": "မြင်းခြံ",
+        "department": "အထက၊နွားထိုးကြီး",
+        "alphabet": "မထက",
+        "file": "mdy/MDY-057.pdf"
+      },
+      {
+        "name": "မြင်းခြံ",
+        "department": "အထက၊တောင်သာ",
+        "alphabet": "မတသ",
+        "file": "mdy/MDY-058.pdf"
+      },
+      {
+        "name": "မြင်းခြံ",
+        "department": "အထက၊ဇဂျမ်း(တောင်သာ)",
+        "alphabet": "မတသ",
+        "file": "mdy/MDY-059.pdf"
+      },
+      {
+        "name": "မြင်းခြံ",
+        "department": "အထက၊ဝဲလောင်(တောင်သာ)",
+        "alphabet": "မတသ",
+        "file": "mdy/MDY-060.pdf"
+      },
+      {
+        "name": "မြင်းခြံ",
+        "department": "အထက၊ကျောဇီ(တောင်သာ)",
+        "alphabet": "မတသ",
+        "file": "mdy/MDY-061.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက(၁)မိတ္ထီလာ",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-062.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက(၂)မိတ္ထီလာ",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-063.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက(၃)မိတ္ထီလာ",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-064.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက(၄)မိတ္ထီလာ",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-065.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက(၅)ရှမ်းတဲ(မိတ္ထီလာ)",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-066.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက(၆)မိတ္ထီလာ",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-067.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ရေဝေ(မိတ္ထီလာ)",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-068.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊တောမ(မိတ္ထီလာ)",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-069.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊အလည်ရွာ(မိတ္ထီလာ)",
+        "alphabet": "မထလ",
+        "file": "mdy/MDY-070.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊မလှိုင်",
+        "alphabet": "မမလ",
+        "file": "mdy/MDY-071.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ မြို့သစ်(မလှိုင်)",
+        "alphabet": "မမလ",
+        "file": "mdy/MDY-072.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊နှောကန်(မလှိုင်)",
+        "alphabet": "မမလ",
+        "file": "mdy/MDY-073.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ဆည်တို(မလှိုင်)",
+        "alphabet": "မမလ",
+        "file": "mdy/MDY-074.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ပန်းအိုင်(မလှိုင်)",
+        "alphabet": "မမလ",
+        "file": "mdy/MDY-075.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက(၁)သာစည်",
+        "alphabet": "မသစ",
+        "file": "mdy/MDY-076.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ညောင်ရမ်း(သာစည်)",
+        "alphabet": "မသစ",
+        "file": "mdy/MDY-077.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ဟံဇား(သာစည်)",
+        "alphabet": "မသစ",
+        "file": "mdy/MDY-078.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊မယ်ဇလီကန်(သာစည်)",
+        "alphabet": "မသစ",
+        "file": "mdy/MDY-079.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ယင်းမာပင်(သာစည်)",
+        "alphabet": "မသစ",
+        "file": "mdy/MDY-080.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ဝမ်းတွင်း",
+        "alphabet": "မဝတ",
+        "file": "mdy/MDY-081.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ဒိုင်ကောင်းကုန်း(ဝမ်းတွင်း)",
+        "alphabet": "မဝတ",
+        "file": "mdy/MDY-082.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊ပင်းတလဲ(ဝမ်းတွင်း)",
+        "alphabet": "မဝတ",
+        "file": "mdy/MDY-083.pdf"
+      },
+      {
+        "name": "မိတ္ထီလာ",
+        "department": "အထက၊တမာကုန်း(ဝမ်းတွင်း)",
+        "alphabet": "မဝတ",
+        "file": "mdy/MDY-084.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရမည်းသင်း(ပင်မ)",
+        "alphabet": "မရသ",
+        "file": "mdy/MDY-085.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရမည်းသင်း(တိုးချဲ့)",
+        "alphabet": "မရသ",
+        "file": "mdy/MDY-086.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊မြို့မ(ရမည်းသင်း)",
+        "alphabet": "မရသ",
+        "file": "mdy/MDY-087.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊သိမ်ကုန်း(ရမည်းသင်း)",
+        "alphabet": "မရသ",
+        "file": "mdy/MDY-088.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရွာတန်း(ရမည်းသင်း)",
+        "alphabet": "မရသ",
+        "file": "mdy/MDY-089.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊မြို့လှ(ရမည်းသင်း)",
+        "alphabet": "မရသ",
+        "file": "mdy/MDY-090.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရွှေဒါး(ရမည်းသင်း)",
+        "alphabet": "မရသ",
+        "file": "mdy/MDY-091.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက(၁)ပျော်ဘွယ်(စက်၊စိုက်၊မွေး)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-092.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရွှေညောင်ဖူး(ပျော်ဘွယ်)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-093.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊တောင်ညောင်ကုန်း(ပျော်ဘွယ်)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-094.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရှေ့လျှော်ဖြူကုန်း(ပျော်ဘွယ်)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-095.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ယင်းတော်(ပျော်ဘွယ်)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-096.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရန်အောင်(ပျော်ဘွယ်)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-097.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊ရွာသစ်(န)(ပျော်ဘွယ်)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-098.pdf"
+      },
+      {
+        "name": "ရမည်းသင်း",
+        "department": "အထက၊မြောက်ညောင်ကုန်း(ပျော်ဘွယ်)",
+        "alphabet": "မပဘ",
+        "file": "mdy/MDY-099.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက၊ညောင်ဦး",
+        "alphabet": "မညဥ",
+        "file": "mdy/MDY-100.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက၊ပုဂံ(ညောင်ဦး)",
+        "alphabet": "မညဥ",
+        "file": "mdy/MDY-101.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက(၁)ကျောက်ပန်းတောင်း(ပင်မ)",
+        "alphabet": "မကတ",
+        "file": "mdy/MDY-102.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက(၁)ကျောက်ပန်းတောင်း(တိုးချဲ့)",
+        "alphabet": "မကတ",
+        "file": "mdy/MDY-103.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက(၂)ကျောက်ပန်းတောင်း",
+        "alphabet": "မကတ",
+        "file": "mdy/MDY-104.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက၊မြို့ရှေ့(ကျောက်ပန်းတောင်း)",
+        "alphabet": "မကတ",
+        "file": "mdy/MDY-105.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက၊ပုပ္ပါး(ကျောက်ပန်းတောင်း)",
+        "alphabet": "မကတ",
+        "file": "mdy/MDY-106.pdf"
+      },
+      {
+        "name": "ညောင်ဦး",
+        "department": "အထက၊လက်ပန်ပျား(စက်၊စိုက်၊မွေး) \n(ကျောက်ပန်းတောင်း)",
+        "alphabet": "မကတ",
+        "file": "mdy/MDY-107.pdf"
+      }
+    ]
+  },
+  {
+    "region": "ရန်ကုန်တိုင်းဒေသကြီး",
+    "districts": [
+      {
+        "name": "တိုက်ကြီး",
+        "department": "အထက၊တိုက်ကြီး(စက်၊စိုက်၊မွေး)",
+        "alphabet": "ဆတက",
+        "file": "ygn/YGN-001.pdf"
+      },
+      {
+        "name": "တိုက်ကြီး",
+        "department": "အထက၊ဖလုံ(တိုက်ကြီး)",
+        "alphabet": "ဆတက",
+        "file": "ygn/YGN-002.pdf"
+      },
+      {
+        "name": "တိုက်ကြီး",
+        "department": "အထက၊ဥက္ကံ(တိုက်ကြီး)",
+        "alphabet": "ဆတက",
+        "file": "ygn/YGN-003.pdf"
+      },
+      {
+        "name": "တိုက်ကြီး",
+        "department": "အထက၊အဖျောက် (တိုက်ကြီး)",
+        "alphabet": "ဆတက",
+        "file": "ygn/YGN-004.pdf"
+      },
+      {
+        "name": "တိုက်ကြီး",
+        "department": "အထက၊တော်လတီ(တိုက်ကြီး)",
+        "alphabet": "ဆတက",
+        "file": "ygn/YGN-005.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက၊လှည်းကူး",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-006.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက၊မြို့မ(လှည်းကူး)",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-007.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက၊အင်းတိုင်(လှည်းကူး)",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-008.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက၊ရဲမွန်(လှည်းကူး)",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-009.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက၊ဒါးပိန် (လှည်းကူး)",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-010.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက၊ဖောင်ကြီး(လှည်းကူး)",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-011.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက၊ငါးဆူတောင်(စက်၊စိုက်၊မွေး)(လှည်းကူး)",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-012.pdf"
+      },
+      {
+        "name": "လှည်းကူး",
+        "department": "အထက(ခွဲ)ငွေနံ့သာစံပြ(လှည်းကူး)",
+        "alphabet": "ဆလက",
+        "file": "ygn/YGN-013.pdf"
+      },
+      {
+        "name": "မှော်ဘီ",
+        "department": "အထက(၁)မှော်ဘီ",
+        "alphabet": "ဆမဘ",
+        "file": "ygn/YGN-014.pdf"
+      },
+      {
+        "name": "မှော်ဘီ",
+        "department": "အထက(၂)မှော်ဘီ",
+        "alphabet": "ဆမဘ",
+        "file": "ygn/YGN-015.pdf"
+      },
+      {
+        "name": "မှော်ဘီ",
+        "department": "အထက၊မြောင်းတကာ (မှော်ဘီ)",
+        "alphabet": "ဆမဘ",
+        "file": "ygn/YGN-016.pdf"
+      },
+      {
+        "name": "မှော်ဘီ",
+        "department": "အထက၊ထန်းတပင်",
+        "alphabet": "ဆထပ",
+        "file": "ygn/YGN-017.pdf"
+      },
+      {
+        "name": "မှော်ဘီ",
+        "department": "အထက(ခွဲ)ကျိုက္ခနာ(ထန်းတပင်)",
+        "alphabet": "ဆထပ",
+        "file": "ygn/YGN-018.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၁)မင်္ဂလာဒုံ",
+        "alphabet": "ဆမဒ",
+        "file": "ygn/YGN-019.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၂)မင်္ဂလာဒုံ",
+        "alphabet": "ဆမဒ",
+        "file": "ygn/YGN-020.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၃)မင်္ဂလာဒုံ(ထောက်ကြန့်)",
+        "alphabet": "ဆမဒ",
+        "file": "ygn/YGN-021.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၄)မင်္ဂလာဒုံ(စက်၊စိုက်၊မွေး)(ပုလဲမြို့သစ်)",
+        "alphabet": "ဆမဒ",
+        "file": "ygn/YGN-022.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၇)မင်္ဂလာဒုံ(ပုလဲမြို့သစ်)",
+        "alphabet": "ဆမဒ",
+        "file": "ygn/YGN-023.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၁)ရွှေပြည်သာ",
+        "alphabet": "ဆပသ",
+        "file": "ygn/YGN-024.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၃)ရွှေပြည်သာ",
+        "alphabet": "ဆပသ",
+        "file": "ygn/YGN-025.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၅)ရွှေပြည်သာ",
+        "alphabet": "ဆပသ",
+        "file": "ygn/YGN-026.pdf"
+      },
+      {
+        "name": "မင်္ဂလာဒုံ",
+        "department": "အထက(၆)ရွှေပြည်သာ",
+        "alphabet": "ဆပသ",
+        "file": "ygn/YGN-027.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၁)အင်းစိန်",
+        "alphabet": "ဆအစ",
+        "file": "ygn/YGN-028.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၃)အင်းစိန်",
+        "alphabet": "ဆအစ",
+        "file": "ygn/YGN-029.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၆)အင်းစိန်",
+        "alphabet": "ဆအစ",
+        "file": "ygn/YGN-030.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အလက(၁၃)ဗဟိုအကျဉ်းဦးစီး(အင်းစိန်)",
+        "alphabet": "ဆအစ",
+        "file": "ygn/YGN-031.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၁)လှိုင်သာယာ(အရှေ့)",
+        "alphabet": "ဆသယ",
+        "file": "ygn/YGN-032.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၄)လှိုင်သာယာ(အရှေ့)",
+        "alphabet": "ဆသယ",
+        "file": "ygn/YGN-033.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၁၀)လှိုင်သာယာ(အရှေ့)",
+        "alphabet": "ဆသယ",
+        "file": "ygn/YGN-034.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၁၄)လှိုင်သာယာ(အရှေ့)",
+        "alphabet": "ဆသယ",
+        "file": "ygn/YGN-035.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၂)လှိုင်သာယာ(အနောက်)",
+        "alphabet": "ဆသန",
+        "file": "ygn/YGN-036.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၃)လှိုင်သာယာ(အနောက်)",
+        "alphabet": "ဆသန",
+        "file": "ygn/YGN-037.pdf"
+      },
+      {
+        "name": "အင်းစိန်",
+        "department": "အထက(၈)လှိုင်သာယာ(အနောက်)",
+        "alphabet": "ဆသန",
+        "file": "ygn/YGN-038.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(၁)သင်္ကန်းကျွန်း",
+        "alphabet": "ဆသက",
+        "file": "ygn/YGN-039.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(၄)သင်္ကန်းကျွန်း",
+        "alphabet": "ဆသက",
+        "file": "ygn/YGN-040.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(ခွဲ)လ(၁)သင်္ကန်းကျွန်း",
+        "alphabet": "ဆသက",
+        "file": "ygn/YGN-041.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက၊သုဝဏ္ဏ(စက်၊စိုက်၊မွေး)(သင်္ကန်းကျွန်း)",
+        "alphabet": "ဆသက",
+        "file": "ygn/YGN-042.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(၁)တောင်ဥက္ကလာပ",
+        "alphabet": "ဆတဥ",
+        "file": "ygn/YGN-043.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(၂)တောင်ဥက္ကလာပ",
+        "alphabet": "ဆတဥ",
+        "file": "ygn/YGN-044.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(၁)ရန်ကင်း",
+        "alphabet": "ဆရက",
+        "file": "ygn/YGN-045.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(၁)တာမွေ",
+        "alphabet": "ဆတမ",
+        "file": "ygn/YGN-046.pdf"
+      },
+      {
+        "name": "သင်္ကန်းကျွန်း",
+        "department": "အထက(၄)တာမွေ",
+        "alphabet": "ဆတမ",
+        "file": "ygn/YGN-047.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၄)ဗိုလ်တထောင်",
+        "alphabet": "ဆဗထ",
+        "file": "ygn/YGN-048.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၆)ဗိုလ်တထောင်",
+        "alphabet": "ဆဗထ",
+        "file": "ygn/YGN-049.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၁)ဒေါပုံ",
+        "alphabet": "ဆဒပ",
+        "file": "ygn/YGN-050.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၁)မင်္ဂလာတောင်ညွန့်",
+        "alphabet": "ဆတည",
+        "file": "ygn/YGN-051.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၄)ပုဇွန်တောင်",
+        "alphabet": "ဆပဇ",
+        "file": "ygn/YGN-052.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၁)သာကေတ",
+        "alphabet": "ဆသတ",
+        "file": "ygn/YGN-053.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၂)သာကေတ(စက်၊စိုက်၊မွေး)",
+        "alphabet": "ဆသတ",
+        "file": "ygn/YGN-054.pdf"
+      },
+      {
+        "name": "ဗိုလ်တထောင်",
+        "department": "အထက(၃)သာကေတ",
+        "alphabet": "ဆသတ",
+        "file": "ygn/YGN-055.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၁)ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+        "alphabet": "ဆဒတ",
+        "file": "ygn/YGN-056.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၂)ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+        "alphabet": "ဆဒတ",
+        "file": "ygn/YGN-057.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၃)ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+        "alphabet": "ဆဒတ",
+        "file": "ygn/YGN-058.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၅)ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+        "alphabet": "ဆဒတ",
+        "file": "ygn/YGN-059.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၆)ဒဂုံမြို့သစ်(တောင်ပိုင်း)",
+        "alphabet": "ဆဒတ",
+        "file": "ygn/YGN-060.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက၊စက်စိုက်မွေး(ဒဂုံတောင်ပိုင်း)",
+        "alphabet": "ဆဒတ",
+        "file": "ygn/YGN-061.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၃)ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
+        "alphabet": "ဆဒမ",
+        "file": "ygn/YGN-062.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၄)ဒဂုံမြို့သစ်(မြောက်ပိုင်း)",
+        "alphabet": "ဆဒမ",
+        "file": "ygn/YGN-063.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၂)ဒဂုံမြို့သစ်(အရှေ့ပိုင်း)",
+        "alphabet": "ဆဒရ",
+        "file": "ygn/YGN-064.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၅)ဒဂုံမြို့သစ်(အရှေ့ပိုင်း)",
+        "alphabet": "ဆဒရ",
+        "file": "ygn/YGN-065.pdf"
+      },
+      {
+        "name": "ဒဂုံမြို့သစ်",
+        "department": "အထက(၃)ဒဂုံမြို့သစ်(ဆိပ်ကမ်း)",
+        "alphabet": "ဆဒဆ",
+        "file": "ygn/YGN-066.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက(၁)သန်လျင်",
+        "alphabet": "ဆသလ",
+        "file": "ygn/YGN-067.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက(၂)သန်လျင်",
+        "alphabet": "ဆသလ",
+        "file": "ygn/YGN-068.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက(၁)ကျောက်တန်း",
+        "alphabet": "ဆကဂ",
+        "file": "ygn/YGN-069.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက၊တံတား(ကျောက်တန်း)",
+        "alphabet": "ဆကဂ",
+        "file": "ygn/YGN-070.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက၊ကမာကလုတ်(ကျောက်တန်း)",
+        "alphabet": "ဆကဂ",
+        "file": "ygn/YGN-071.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက(၁)သုံးခွ",
+        "alphabet": "ဆသခ",
+        "file": "ygn/YGN-072.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက(၂)သုံးခွ",
+        "alphabet": "ဆသခ",
+        "file": "ygn/YGN-073.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက(၁)ခရမ်း",
+        "alphabet": "ဆခရ",
+        "file": "ygn/YGN-074.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက(၂)ခရမ်း",
+        "alphabet": "ဆခရ",
+        "file": "ygn/YGN-075.pdf"
+      },
+      {
+        "name": "သန်လျင်",
+        "department": "အထက၊ကိုကိုးကျွန်း",
+        "alphabet": "ဆကက",
+        "file": "ygn/YGN-076.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက(၁)တွံတေး",
+        "alphabet": "ဆတတ",
+        "file": "ygn/YGN-077.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက(၂)မြို့မ(တွံတေး)စာစစ်ဌာန(၁)",
+        "alphabet": "ဆတတ",
+        "file": "ygn/YGN-078.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက(၂)မြို့မ(တွံတေး)စာစစ်ဌာန(၂)",
+        "alphabet": "ဆတတ",
+        "file": "ygn/YGN-079.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက၊ခနောင်တို",
+        "alphabet": "ဆခတ",
+        "file": "ygn/YGN-080.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက(၄)ဒလ",
+        "alphabet": "ဆဒလ",
+        "file": "ygn/YGN-081.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက၊ကော့မှူး",
+        "alphabet": "ဆကမ",
+        "file": "ygn/YGN-082.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက၊နတ်စင်ကုန်း(ကော့မှူး)",
+        "alphabet": "ဆကမ",
+        "file": "ygn/YGN-083.pdf"
+      },
+      {
+        "name": "တွံတေး",
+        "department": "အထက(၁)ကွမ်းခြံကုန်း",
+        "alphabet": "ဆကခ",
+        "file": "ygn/YGN-084.pdf"
+      },
+      {
+        "name": "ကျောက်တံတား",
+        "department": "အထက၊ကျောက်တံတား",
+        "alphabet": "ဆကတ",
+        "file": "ygn/YGN-085.pdf"
+      },
+      {
+        "name": "ကျောက်တံတား",
+        "department": "အထက(၁)ပန်းဘဲတန်း",
+        "alphabet": "ဆပတ",
+        "file": "ygn/YGN-086.pdf"
+      },
+      {
+        "name": "ကျောက်တံတား",
+        "department": "အထက(၂)လသာ",
+        "alphabet": "ဆလသ",
+        "file": "ygn/YGN-087.pdf"
+      },
+      {
+        "name": "ကျောက်တံတား",
+        "department": "အထက(၁)လမ်းမတော်",
+        "alphabet": "ဆလတ",
+        "file": "ygn/YGN-088.pdf"
+      },
+      {
+        "name": "ကျောက်တံတား",
+        "department": "အထက(၁)ဒဂုံ",
+        "alphabet": "ဆဒဂ",
+        "file": "ygn/YGN-089.pdf"
+      },
+      {
+        "name": "အလုံ",
+        "department": "အထက(၄)အလုံ",
+        "alphabet": "ဆအလ",
+        "file": "ygn/YGN-090.pdf"
+      },
+      {
+        "name": "အလုံ",
+        "department": "အထက(၁)ကြည့်မြင်တိုင်",
+        "alphabet": "ဆမတ",
+        "file": "ygn/YGN-091.pdf"
+      },
+      {
+        "name": "အလုံ",
+        "department": "အထက(၂)စမ်းချောင်း",
+        "alphabet": "ဆစခ",
+        "file": "ygn/YGN-092.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၁)မရမ်းကုန်း",
+        "alphabet": "ဆမက",
+        "file": "ygn/YGN-093.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၂)မရမ်းကုန်း",
+        "alphabet": "ဆမက",
+        "file": "ygn/YGN-094.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၁)လှိုင်",
+        "alphabet": "ဆလမ",
+        "file": "ygn/YGN-095.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၃)လှိုင်",
+        "alphabet": "ဆလမ",
+        "file": "ygn/YGN-096.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၁)မြောက်ဥက္ကလာပ",
+        "alphabet": "ဆမဥ",
+        "file": "ygn/YGN-097.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၃)မြောက်ဥက္ကလာပ",
+        "alphabet": "ဆမဥ",
+        "file": "ygn/YGN-098.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၆)မြောက်ဥက္ကလာပ(စက်၊စိုက်၊မွေး)",
+        "alphabet": "ဆမဥ",
+        "file": "ygn/YGN-099.pdf"
+      },
+      {
+        "name": "မရမ်းကုန်း",
+        "department": "အထက(၇)မြောက်ဥက္ကလာပ",
+        "alphabet": "ဆမဥ",
+        "file": "ygn/YGN-100.pdf"
+      },
+      {
+        "name": "ကမာရွတ်",
+        "department": "အထက၊လေ့ကျင့်ရေးကမာရွတ်",
+        "alphabet": "ဆကရ",
+        "file": "ygn/YGN-101.pdf"
+      },
+      {
+        "name": "ကမာရွတ်",
+        "department": "အထက(၁)ဗဟန်း",
+        "alphabet": "ဆဗဟ",
+        "file": "ygn/YGN-102.pdf"
+      },
+      {
+        "name": "ကမာရွတ်",
+        "department": "အထက(၂)ဗဟန်း",
+        "alphabet": "ဆဗဟ",
+        "file": "ygn/YGN-103.pdf"
+      }
+    ]
+  }
+]
